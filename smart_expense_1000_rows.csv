@@ -1,0 +1,1001 @@
+Expense_ID,Date,Category,Description,Amount,Payment_Mode
+1,2025-01-01,Shopping,Shoes,4182.15,UPI
+2,2025-01-01,Shopping,Home Items,2304.59,Debit Card
+3,2025-01-01,Transport,Cab,458.21,Net Banking
+4,2025-01-02,Shopping,Online Shopping,3903.53,Cash
+5,2025-01-02,Transport,Train,224.51,Debit Card
+6,2025-01-02,Transport,Cab,36.77,UPI
+7,2025-01-03,Entertainment,Games,206.66,UPI
+8,2025-01-03,Food,Groceries,289.53,Debit Card
+9,2025-01-03,Bills,Internet,2828.82,Cash
+10,2025-01-03,Shopping,Shoes,1256.43,Cash
+11,2025-01-03,Transport,Fuel,312.85,UPI
+12,2025-01-04,Bills,Mobile Recharge,2802.21,Debit Card
+13,2025-01-04,Food,Dinner,564.98,UPI
+14,2025-01-04,Shopping,Online Shopping,2615.04,Debit Card
+15,2025-01-05,Shopping,Online Shopping,4137.81,Cash
+16,2025-01-05,Entertainment,Music,1437.76,Debit Card
+17,2025-01-05,Bills,Internet,860.17,UPI
+18,2025-01-05,Food,Dinner,394.83,Cash
+19,2025-01-05,Shopping,Electronics,3726.6,Credit Card
+20,2025-01-07,Bills,Water Bill,3132.42,UPI
+21,2025-01-07,Bills,Rent,1592.03,Cash
+22,2025-01-07,Transport,Train,96.14,UPI
+23,2025-01-07,Education,Books,2108.54,UPI
+24,2025-01-07,Bills,Rent,1134.21,UPI
+25,2025-01-08,Food,Dinner,420.77,Debit Card
+26,2025-01-08,Entertainment,Outing,1979.51,Net Banking
+27,2025-01-08,Bills,Water Bill,3502.08,UPI
+28,2025-01-09,Transport,Cab,64.65,Cash
+29,2025-01-09,Health,Lab Test,1744.8,UPI
+30,2025-01-09,Education,Books,3399.68,Debit Card
+31,2025-01-09,Others,Repair,1709.02,UPI
+32,2025-01-09,Education,Online Course,3149.53,UPI
+33,2025-01-10,Others,Personal Care,2119.93,Debit Card
+34,2025-01-10,Shopping,Online Shopping,813.32,Cash
+35,2025-01-11,Shopping,Clothes,626.43,UPI
+36,2025-01-11,Food,Lunch,541.75,Credit Card
+37,2025-01-11,Shopping,Online Shopping,3214.97,UPI
+38,2025-01-12,Others,Donation,1237.27,UPI
+39,2025-01-12,Entertainment,Music,1670.95,UPI
+40,2025-01-12,Transport,Train,211.57,UPI
+41,2025-01-12,Bills,Mobile Recharge,3609.46,UPI
+42,2025-01-12,Entertainment,Events,1895.0,Credit Card
+43,2025-01-12,Food,Restaurant,255.46,UPI
+44,2025-01-12,Food,Breakfast,145.83,UPI
+45,2025-01-12,Food,Lunch,514.32,UPI
+46,2025-01-12,Bills,Electricity,3225.8,UPI
+47,2025-01-12,Food,Snacks,422.75,Cash
+48,2025-01-12,Transport,Auto,159.85,UPI
+49,2025-01-13,Bills,Rent,1487.02,UPI
+50,2025-01-14,Food,Breakfast,74.05,Credit Card
+51,2025-01-14,Health,Medicine,604.84,UPI
+52,2025-01-14,Food,Snacks,255.28,UPI
+53,2025-01-14,Education,Online Course,3839.68,Cash
+54,2025-01-14,Bills,Rent,1846.56,UPI
+55,2025-01-15,Education,Training,3033.67,Cash
+56,2025-01-15,Shopping,Home Items,4884.87,UPI
+57,2025-01-15,Shopping,Online Shopping,4298.17,UPI
+58,2025-01-16,Transport,Train,142.24,Credit Card
+59,2025-01-16,Food,Dinner,490.04,UPI
+60,2025-01-17,Transport,Parking,361.22,UPI
+61,2025-01-17,Entertainment,OTT Subscription,1707.25,UPI
+62,2025-01-18,Health,Medicine,1580.63,Credit Card
+63,2025-01-19,Food,Lunch,542.63,Debit Card
+64,2025-01-19,Shopping,Home Items,2426.31,UPI
+65,2025-01-19,Transport,Parking,271.36,Debit Card
+66,2025-01-20,Entertainment,Events,663.33,UPI
+67,2025-01-20,Shopping,Online Shopping,3433.5,UPI
+68,2025-01-20,Others,Donation,1402.1,UPI
+69,2025-01-20,Transport,Fuel,248.73,Credit Card
+70,2025-01-21,Health,Doctor Visit,2033.91,UPI
+71,2025-01-21,Food,Lunch,406.28,Credit Card
+72,2025-01-21,Shopping,Shoes,2322.81,UPI
+73,2025-01-22,Health,Pharmacy,987.8,Cash
+74,2025-01-22,Shopping,Online Shopping,3654.34,UPI
+75,2025-01-22,Entertainment,Games,1907.7,UPI
+76,2025-01-23,Transport,Auto,129.67,UPI
+77,2025-01-24,Shopping,Online Shopping,2823.57,Cash
+78,2025-01-24,Bills,Mobile Recharge,1588.05,UPI
+79,2025-01-25,Health,Health Checkup,2304.84,UPI
+80,2025-01-25,Food,Snacks,76.48,Credit Card
+81,2025-01-25,Others,Repair,87.72,Credit Card
+82,2025-01-25,Food,Groceries,354.6,Debit Card
+83,2025-01-25,Food,Lunch,203.69,UPI
+84,2025-01-25,Bills,Internet,176.88,UPI
+85,2025-01-26,Shopping,Electronics,1368.69,UPI
+86,2025-01-26,Transport,Auto,192.91,Cash
+87,2025-01-26,Transport,Parking,404.69,UPI
+88,2025-01-26,Food,Breakfast,485.71,Debit Card
+89,2025-01-27,Bills,Rent,3538.6,Debit Card
+90,2025-01-27,Bills,Mobile Recharge,3949.35,UPI
+91,2025-01-27,Food,Breakfast,308.49,Cash
+92,2025-01-27,Health,Pharmacy,1069.76,UPI
+93,2025-01-27,Food,Restaurant,268.79,Net Banking
+94,2025-01-28,Others,Personal Care,732.22,Cash
+95,2025-01-29,Health,Lab Test,2492.64,UPI
+96,2025-01-29,Entertainment,Movie,632.07,UPI
+97,2025-01-29,Food,Dinner,396.26,UPI
+98,2025-01-30,Education,Course,3076.64,UPI
+99,2025-01-31,Transport,Fuel,350.37,Net Banking
+100,2025-01-31,Entertainment,OTT Subscription,139.44,UPI
+101,2025-02-01,Food,Restaurant,511.81,UPI
+102,2025-02-02,Bills,Mobile Recharge,1699.42,UPI
+103,2025-02-03,Transport,Auto,196.61,Debit Card
+104,2025-02-04,Food,Lunch,275.32,UPI
+105,2025-02-04,Shopping,Home Items,4031.81,UPI
+106,2025-02-05,Shopping,Home Items,3785.98,Cash
+107,2025-02-05,Shopping,Online Shopping,915.88,UPI
+108,2025-02-05,Entertainment,OTT Subscription,1414.9,Cash
+109,2025-02-06,Entertainment,Movie,982.42,UPI
+110,2025-02-06,Food,Groceries,60.51,Cash
+111,2025-02-06,Food,Restaurant,553.39,Cash
+112,2025-02-07,Food,Restaurant,520.63,UPI
+113,2025-02-07,Transport,Parking,43.63,UPI
+114,2025-02-08,Others,Other,888.84,UPI
+115,2025-02-08,Food,Groceries,358.36,UPI
+116,2025-02-08,Bills,Electricity,3615.32,UPI
+117,2025-02-08,Transport,Train,425.24,UPI
+118,2025-02-08,Food,Lunch,368.62,Credit Card
+119,2025-02-08,Others,Personal Care,1303.51,UPI
+120,2025-02-09,Transport,Parking,128.65,Debit Card
+121,2025-02-09,Others,Other,2460.41,UPI
+122,2025-02-09,Education,Online Course,1565.9,UPI
+123,2025-02-09,Bills,Gas,322.69,UPI
+124,2025-02-09,Entertainment,Music,985.99,UPI
+125,2025-02-10,Health,Health Checkup,1595.41,UPI
+126,2025-02-10,Transport,Cab,111.89,Cash
+127,2025-02-10,Food,Snacks,458.24,UPI
+128,2025-02-11,Health,Medicine,1236.05,Cash
+129,2025-02-11,Shopping,Shoes,3456.76,Net Banking
+130,2025-02-11,Bills,Mobile Recharge,3309.13,UPI
+131,2025-02-12,Transport,Bus,394.49,Cash
+132,2025-02-12,Bills,Internet,1664.28,Cash
+133,2025-02-13,Shopping,Shoes,3005.6,Credit Card
+134,2025-02-14,Shopping,Clothes,4078.51,Cash
+135,2025-02-14,Bills,Mobile Recharge,426.09,UPI
+136,2025-02-15,Food,Dinner,394.43,UPI
+137,2025-02-15,Food,Dinner,514.01,Debit Card
+138,2025-02-15,Food,Breakfast,350.69,UPI
+139,2025-02-16,Transport,Parking,209.35,UPI
+140,2025-02-16,Food,Restaurant,591.26,Cash
+141,2025-02-16,Food,Breakfast,212.76,Net Banking
+142,2025-02-18,Entertainment,Events,381.61,UPI
+143,2025-02-18,Entertainment,Events,1134.26,UPI
+144,2025-02-18,Food,Restaurant,82.77,Debit Card
+145,2025-02-18,Food,Snacks,169.74,UPI
+146,2025-02-19,Education,Training,3228.42,UPI
+147,2025-02-19,Bills,Gas,2969.74,UPI
+148,2025-02-19,Education,Training,663.9,UPI
+149,2025-02-19,Food,Breakfast,546.52,Cash
+150,2025-02-20,Food,Lunch,186.33,Cash
+151,2025-02-21,Others,Personal Care,1182.62,Cash
+152,2025-02-21,Food,Restaurant,528.85,UPI
+153,2025-02-22,Food,Breakfast,293.54,UPI
+154,2025-02-23,Food,Breakfast,225.82,UPI
+155,2025-02-24,Others,Gift,1883.54,UPI
+156,2025-02-24,Food,Snacks,223.26,UPI
+157,2025-02-25,Food,Breakfast,562.46,Debit Card
+158,2025-02-27,Shopping,Accessories,4714.15,UPI
+159,2025-02-27,Entertainment,Movie,1570.58,UPI
+160,2025-02-27,Food,Groceries,117.81,UPI
+161,2025-02-28,Transport,Fuel,330.12,Debit Card
+162,2025-02-28,Bills,Mobile Recharge,3915.54,UPI
+163,2025-02-28,Bills,Mobile Recharge,2083.29,Cash
+164,2025-02-28,Food,Snacks,530.53,Cash
+165,2025-02-28,Others,Other,1077.5,Debit Card
+166,2025-02-28,Transport,Parking,392.87,Credit Card
+167,2025-03-01,Others,Gift,1618.49,Credit Card
+168,2025-03-01,Shopping,Electronics,562.9,Cash
+169,2025-03-01,Others,Gift,1751.9,Cash
+170,2025-03-01,Education,Training,947.71,Debit Card
+171,2025-03-02,Food,Restaurant,358.09,UPI
+172,2025-03-02,Others,Repair,2258.18,UPI
+173,2025-03-03,Entertainment,OTT Subscription,318.06,UPI
+174,2025-03-03,Shopping,Online Shopping,3617.67,Cash
+175,2025-03-04,Education,Books,2365.95,Cash
+176,2025-03-04,Shopping,Electronics,4719.36,UPI
+177,2025-03-05,Others,Gift,1261.95,Debit Card
+178,2025-03-05,Food,Breakfast,325.2,Cash
+179,2025-03-06,Transport,Parking,301.19,UPI
+180,2025-03-06,Shopping,Home Items,2915.3,Cash
+181,2025-03-07,Transport,Parking,217.74,Cash
+182,2025-03-07,Others,Miscellaneous,698.36,Debit Card
+183,2025-03-07,Entertainment,Music,203.49,Cash
+184,2025-03-07,Education,Exam Fee,2226.52,Credit Card
+185,2025-03-08,Shopping,Online Shopping,418.81,UPI
+186,2025-03-08,Education,Online Course,4344.73,UPI
+187,2025-03-09,Food,Breakfast,546.98,Debit Card
+188,2025-03-09,Food,Breakfast,182.16,UPI
+189,2025-03-09,Entertainment,Outing,1214.59,UPI
+190,2025-03-09,Shopping,Clothes,202.87,UPI
+191,2025-03-10,Food,Lunch,152.15,Credit Card
+192,2025-03-10,Others,Repair,1484.63,Debit Card
+193,2025-03-11,Others,Personal Care,1516.48,Net Banking
+194,2025-03-12,Transport,Auto,92.85,Cash
+195,2025-03-13,Education,Stationery,1441.38,Debit Card
+196,2025-03-13,Bills,Internet,2193.34,Net Banking
+197,2025-03-13,Bills,Internet,3620.32,Net Banking
+198,2025-03-13,Bills,Rent,2544.85,Cash
+199,2025-03-13,Entertainment,Outing,296.52,Cash
+200,2025-03-14,Health,Doctor Visit,899.59,UPI
+201,2025-03-14,Bills,Internet,422.93,Credit Card
+202,2025-03-14,Food,Lunch,414.94,Cash
+203,2025-03-14,Transport,Train,256.55,UPI
+204,2025-03-14,Food,Snacks,501.27,UPI
+205,2025-03-14,Bills,Electricity,393.05,UPI
+206,2025-03-15,Education,Exam Fee,2563.16,Credit Card
+207,2025-03-15,Food,Lunch,479.51,Cash
+208,2025-03-16,Food,Snacks,480.0,Net Banking
+209,2025-03-17,Transport,Fuel,224.11,UPI
+210,2025-03-17,Shopping,Electronics,3921.17,UPI
+211,2025-03-17,Others,Miscellaneous,1916.61,UPI
+212,2025-03-18,Food,Dinner,508.51,UPI
+213,2025-03-18,Others,Repair,1296.78,Net Banking
+214,2025-03-18,Bills,Mobile Recharge,598.84,UPI
+215,2025-03-18,Entertainment,OTT Subscription,1985.91,UPI
+216,2025-03-18,Health,Health Checkup,1102.31,UPI
+217,2025-03-19,Others,Repair,345.1,Cash
+218,2025-03-20,Shopping,Clothes,500.91,UPI
+219,2025-03-20,Food,Groceries,571.07,UPI
+220,2025-03-20,Food,Snacks,60.05,Debit Card
+221,2025-03-21,Bills,Gas,3739.24,UPI
+222,2025-03-21,Bills,Gas,2934.04,UPI
+223,2025-03-21,Bills,Internet,1320.52,UPI
+224,2025-03-22,Bills,Internet,1881.67,UPI
+225,2025-03-22,Transport,Fuel,204.57,Net Banking
+226,2025-03-23,Transport,Train,329.07,UPI
+227,2025-03-23,Health,Doctor Visit,1474.62,Debit Card
+228,2025-03-23,Shopping,Electronics,3742.0,Debit Card
+229,2025-03-23,Transport,Parking,35.57,Credit Card
+230,2025-03-23,Bills,Internet,1987.22,Cash
+231,2025-03-25,Shopping,Home Items,3884.32,UPI
+232,2025-03-25,Food,Dinner,571.87,UPI
+233,2025-03-25,Shopping,Clothes,1526.33,UPI
+234,2025-03-25,Transport,Train,375.28,UPI
+235,2025-03-25,Shopping,Online Shopping,3078.9,Credit Card
+236,2025-03-25,Education,Books,1219.2,UPI
+237,2025-03-25,Health,Pharmacy,2039.74,UPI
+238,2025-03-26,Transport,Auto,131.06,UPI
+239,2025-03-26,Shopping,Shoes,849.71,UPI
+240,2025-03-27,Health,Lab Test,2566.57,UPI
+241,2025-03-27,Entertainment,Events,1937.01,Debit Card
+242,2025-03-27,Food,Groceries,268.83,UPI
+243,2025-03-28,Food,Groceries,53.68,Cash
+244,2025-03-28,Others,Personal Care,955.23,Cash
+245,2025-03-29,Food,Lunch,475.65,Debit Card
+246,2025-03-30,Food,Lunch,56.67,Cash
+247,2025-03-30,Education,Online Course,2660.74,UPI
+248,2025-03-30,Entertainment,Games,1486.45,UPI
+249,2025-03-30,Shopping,Online Shopping,4843.83,Debit Card
+250,2025-03-31,Food,Snacks,431.95,Credit Card
+251,2025-03-31,Shopping,Accessories,2582.04,Debit Card
+252,2025-03-31,Bills,Electricity,1464.49,UPI
+253,2025-03-31,Food,Dinner,526.36,Net Banking
+254,2025-04-02,Food,Lunch,245.12,Cash
+255,2025-04-02,Transport,Cab,447.3,UPI
+256,2025-04-02,Health,Health Checkup,1957.84,UPI
+257,2025-04-02,Entertainment,Movie,708.76,Debit Card
+258,2025-04-03,Transport,Fuel,395.03,UPI
+259,2025-04-03,Others,Miscellaneous,2313.87,UPI
+260,2025-04-03,Transport,Auto,193.0,UPI
+261,2025-04-03,Food,Lunch,409.79,Net Banking
+262,2025-04-05,Others,Repair,600.98,Cash
+263,2025-04-05,Entertainment,Events,167.62,UPI
+264,2025-04-06,Others,Repair,277.83,UPI
+265,2025-04-06,Food,Snacks,116.82,Cash
+266,2025-04-06,Food,Lunch,83.12,UPI
+267,2025-04-08,Transport,Fuel,141.08,UPI
+268,2025-04-08,Others,Personal Care,2191.86,Cash
+269,2025-04-08,Others,Repair,1423.42,UPI
+270,2025-04-09,Shopping,Home Items,4597.24,UPI
+271,2025-04-09,Health,Medicine,2092.36,Credit Card
+272,2025-04-10,Bills,Internet,2302.38,UPI
+273,2025-04-10,Shopping,Online Shopping,2132.98,Cash
+274,2025-04-11,Food,Dinner,222.11,Debit Card
+275,2025-04-12,Entertainment,Events,1228.22,UPI
+276,2025-04-12,Bills,Rent,3332.22,UPI
+277,2025-04-12,Food,Restaurant,589.31,UPI
+278,2025-04-12,Bills,Water Bill,2270.05,Debit Card
+279,2025-04-12,Food,Restaurant,480.91,UPI
+280,2025-04-12,Food,Lunch,488.63,Cash
+281,2025-04-13,Entertainment,OTT Subscription,656.36,Cash
+282,2025-04-13,Entertainment,Games,620.74,UPI
+283,2025-04-14,Transport,Bus,328.2,UPI
+284,2025-04-15,Bills,Internet,3478.57,UPI
+285,2025-04-15,Transport,Train,76.84,Cash
+286,2025-04-16,Transport,Parking,260.52,UPI
+287,2025-04-16,Shopping,Clothes,1354.55,UPI
+288,2025-04-16,Food,Dinner,216.56,Cash
+289,2025-04-17,Transport,Train,117.81,UPI
+290,2025-04-17,Entertainment,Events,487.92,UPI
+291,2025-04-17,Transport,Bus,208.69,UPI
+292,2025-04-18,Education,Exam Fee,1355.33,Credit Card
+293,2025-04-18,Transport,Parking,376.33,Cash
+294,2025-04-18,Shopping,Electronics,1213.91,Debit Card
+295,2025-04-18,Bills,Mobile Recharge,1963.16,Cash
+296,2025-04-18,Others,Personal Care,774.38,UPI
+297,2025-04-19,Shopping,Clothes,2987.1,Credit Card
+298,2025-04-20,Food,Lunch,277.24,UPI
+299,2025-04-20,Shopping,Home Items,3747.64,UPI
+300,2025-04-21,Shopping,Online Shopping,4859.25,Cash
+301,2025-04-21,Others,Miscellaneous,2228.36,UPI
+302,2025-04-23,Others,Gift,1577.34,Debit Card
+303,2025-04-24,Food,Lunch,194.47,UPI
+304,2025-04-24,Entertainment,Movie,312.03,UPI
+305,2025-04-24,Transport,Auto,165.63,Credit Card
+306,2025-04-25,Bills,Gas,2809.2,Debit Card
+307,2025-04-25,Food,Restaurant,248.91,UPI
+308,2025-04-26,Education,Exam Fee,2354.31,Debit Card
+309,2025-04-26,Bills,Gas,1687.43,UPI
+310,2025-04-27,Food,Snacks,304.07,UPI
+311,2025-04-27,Bills,Internet,3261.86,UPI
+312,2025-04-27,Education,Exam Fee,1811.23,Cash
+313,2025-04-27,Bills,Rent,2195.48,UPI
+314,2025-04-27,Others,Other,698.06,Credit Card
+315,2025-04-27,Transport,Train,148.2,UPI
+316,2025-04-28,Food,Dinner,229.65,Debit Card
+317,2025-04-28,Entertainment,Music,146.9,UPI
+318,2025-04-28,Education,Course,4335.99,UPI
+319,2025-04-29,Bills,Mobile Recharge,342.57,UPI
+320,2025-04-29,Transport,Cab,484.53,UPI
+321,2025-04-29,Transport,Cab,498.27,UPI
+322,2025-04-29,Bills,Water Bill,3911.57,Debit Card
+323,2025-04-30,Transport,Auto,129.05,Cash
+324,2025-04-30,Health,Doctor Visit,2190.85,UPI
+325,2025-04-30,Bills,Gas,2213.35,Credit Card
+326,2025-05-01,Bills,Water Bill,751.4,UPI
+327,2025-05-01,Health,Health Checkup,1038.24,UPI
+328,2025-05-01,Health,Medicine,1769.22,UPI
+329,2025-05-01,Bills,Internet,409.4,UPI
+330,2025-05-02,Transport,Parking,79.7,Cash
+331,2025-05-02,Health,Medicine,2244.28,UPI
+332,2025-05-03,Food,Groceries,73.11,Credit Card
+333,2025-05-03,Transport,Train,83.22,Debit Card
+334,2025-05-04,Bills,Internet,1248.37,Net Banking
+335,2025-05-04,Food,Lunch,559.56,Credit Card
+336,2025-05-05,Others,Repair,1737.15,Credit Card
+337,2025-05-05,Food,Snacks,124.02,Credit Card
+338,2025-05-05,Food,Snacks,434.01,Cash
+339,2025-05-06,Shopping,Accessories,2460.16,UPI
+340,2025-05-06,Transport,Auto,199.78,Credit Card
+341,2025-05-07,Food,Lunch,197.07,Cash
+342,2025-05-08,Food,Breakfast,345.37,Net Banking
+343,2025-05-09,Education,Books,1885.85,UPI
+344,2025-05-09,Education,Course,892.68,Cash
+345,2025-05-10,Food,Lunch,311.78,Cash
+346,2025-05-10,Shopping,Clothes,2633.89,Cash
+347,2025-05-10,Bills,Rent,3202.33,Net Banking
+348,2025-05-10,Shopping,Electronics,1994.28,UPI
+349,2025-05-10,Shopping,Accessories,2171.79,Cash
+350,2025-05-10,Transport,Train,143.19,Credit Card
+351,2025-05-10,Food,Breakfast,488.04,Cash
+352,2025-05-11,Shopping,Online Shopping,4896.31,Debit Card
+353,2025-05-11,Transport,Fuel,307.45,UPI
+354,2025-05-11,Shopping,Clothes,4213.36,UPI
+355,2025-05-12,Food,Restaurant,91.61,UPI
+356,2025-05-12,Shopping,Electronics,762.94,Cash
+357,2025-05-13,Education,Stationery,414.94,UPI
+358,2025-05-13,Education,Stationery,3595.51,Cash
+359,2025-05-13,Transport,Cab,168.06,UPI
+360,2025-05-14,Food,Groceries,75.77,Cash
+361,2025-05-14,Food,Dinner,397.26,Cash
+362,2025-05-16,Entertainment,Movie,1180.08,UPI
+363,2025-05-16,Shopping,Online Shopping,3279.22,UPI
+364,2025-05-16,Bills,Gas,1168.22,UPI
+365,2025-05-16,Food,Restaurant,362.07,Debit Card
+366,2025-05-17,Food,Restaurant,276.67,Cash
+367,2025-05-17,Transport,Train,457.17,Cash
+368,2025-05-18,Food,Breakfast,253.51,UPI
+369,2025-05-20,Shopping,Accessories,4550.9,UPI
+370,2025-05-21,Health,Health Checkup,1235.42,UPI
+371,2025-05-21,Food,Snacks,173.38,Debit Card
+372,2025-05-21,Bills,Water Bill,344.1,UPI
+373,2025-05-21,Food,Snacks,595.67,Credit Card
+374,2025-05-21,Shopping,Electronics,4595.88,UPI
+375,2025-05-22,Bills,Rent,3510.01,UPI
+376,2025-05-22,Transport,Parking,153.5,UPI
+377,2025-05-22,Shopping,Shoes,2600.28,Credit Card
+378,2025-05-23,Food,Dinner,318.32,UPI
+379,2025-05-23,Education,Stationery,4857.23,Cash
+380,2025-05-23,Food,Groceries,509.03,Credit Card
+381,2025-05-23,Health,Doctor Visit,322.05,UPI
+382,2025-05-23,Others,Miscellaneous,2314.06,Debit Card
+383,2025-05-23,Health,Health Checkup,284.69,UPI
+384,2025-05-24,Health,Lab Test,1004.54,UPI
+385,2025-05-24,Entertainment,Events,702.88,UPI
+386,2025-05-25,Transport,Train,221.66,UPI
+387,2025-05-25,Transport,Bus,317.47,Cash
+388,2025-05-25,Education,Training,3523.32,Debit Card
+389,2025-05-25,Food,Snacks,557.3,UPI
+390,2025-05-25,Food,Dinner,434.64,Cash
+391,2025-05-26,Food,Snacks,479.12,Debit Card
+392,2025-05-26,Shopping,Home Items,950.32,UPI
+393,2025-05-26,Bills,Water Bill,248.91,UPI
+394,2025-05-26,Food,Restaurant,380.99,UPI
+395,2025-05-26,Health,Doctor Visit,589.55,UPI
+396,2025-05-27,Health,Medicine,2091.11,UPI
+397,2025-05-27,Others,Miscellaneous,703.35,UPI
+398,2025-05-27,Others,Donation,1869.92,UPI
+399,2025-05-27,Transport,Bus,24.94,Cash
+400,2025-05-28,Health,Health Checkup,1606.22,Cash
+401,2025-05-28,Transport,Parking,165.41,Debit Card
+402,2025-05-29,Education,Online Course,2729.8,Credit Card
+403,2025-05-29,Bills,Rent,1554.57,Net Banking
+404,2025-05-29,Food,Restaurant,328.13,UPI
+405,2025-05-29,Education,Stationery,270.12,Cash
+406,2025-05-30,Food,Breakfast,346.08,Credit Card
+407,2025-05-30,Shopping,Accessories,3562.07,UPI
+408,2025-05-30,Food,Dinner,368.1,UPI
+409,2025-05-31,Food,Groceries,357.32,UPI
+410,2025-05-31,Shopping,Home Items,1206.51,Credit Card
+411,2025-05-31,Food,Breakfast,171.28,UPI
+412,2025-06-01,Food,Lunch,263.76,Credit Card
+413,2025-06-01,Bills,Rent,2034.1,Cash
+414,2025-06-01,Entertainment,Events,647.68,UPI
+415,2025-06-01,Bills,Internet,2197.71,Credit Card
+416,2025-06-02,Entertainment,Outing,857.79,Cash
+417,2025-06-02,Transport,Fuel,252.65,UPI
+418,2025-06-02,Shopping,Electronics,3255.39,Net Banking
+419,2025-06-02,Shopping,Online Shopping,716.55,UPI
+420,2025-06-03,Shopping,Home Items,785.75,Credit Card
+421,2025-06-03,Shopping,Shoes,4198.06,UPI
+422,2025-06-03,Shopping,Electronics,4285.52,Credit Card
+423,2025-06-03,Shopping,Shoes,4321.75,UPI
+424,2025-06-04,Transport,Train,173.06,UPI
+425,2025-06-04,Others,Personal Care,1966.85,Credit Card
+426,2025-06-05,Education,Training,352.37,Credit Card
+427,2025-06-05,Transport,Train,80.27,UPI
+428,2025-06-06,Entertainment,Movie,1893.57,UPI
+429,2025-06-06,Food,Dinner,558.49,Cash
+430,2025-06-06,Bills,Internet,2352.18,Credit Card
+431,2025-06-07,Education,Stationery,2288.87,UPI
+432,2025-06-07,Education,Online Course,1703.39,UPI
+433,2025-06-07,Transport,Train,281.88,UPI
+434,2025-06-07,Food,Restaurant,373.96,Cash
+435,2025-06-07,Health,Pharmacy,511.78,UPI
+436,2025-06-07,Food,Dinner,89.0,Cash
+437,2025-06-08,Shopping,Electronics,1278.15,Cash
+438,2025-06-08,Food,Snacks,574.05,Cash
+439,2025-06-08,Bills,Rent,3497.7,Debit Card
+440,2025-06-08,Bills,Rent,3919.73,UPI
+441,2025-06-09,Bills,Internet,3253.85,Cash
+442,2025-06-09,Others,Donation,382.68,UPI
+443,2025-06-09,Entertainment,Events,891.48,UPI
+444,2025-06-09,Others,Gift,1770.16,Net Banking
+445,2025-06-09,Entertainment,OTT Subscription,1778.77,UPI
+446,2025-06-09,Entertainment,Outing,1625.66,Cash
+447,2025-06-10,Food,Dinner,595.5,UPI
+448,2025-06-10,Food,Dinner,189.05,UPI
+449,2025-06-10,Transport,Parking,359.2,Debit Card
+450,2025-06-10,Shopping,Accessories,4309.44,Credit Card
+451,2025-06-10,Food,Lunch,219.27,UPI
+452,2025-06-10,Transport,Fuel,445.24,Credit Card
+453,2025-06-11,Food,Breakfast,260.42,UPI
+454,2025-06-12,Transport,Parking,200.16,UPI
+455,2025-06-12,Food,Restaurant,196.07,UPI
+456,2025-06-12,Bills,Gas,3145.4,Debit Card
+457,2025-06-12,Food,Groceries,414.73,UPI
+458,2025-06-13,Health,Pharmacy,2079.59,UPI
+459,2025-06-13,Education,Exam Fee,1467.22,Debit Card
+460,2025-06-13,Food,Dinner,488.08,UPI
+461,2025-06-13,Bills,Water Bill,3045.7,UPI
+462,2025-06-13,Transport,Train,361.28,UPI
+463,2025-06-14,Food,Dinner,385.33,UPI
+464,2025-06-15,Bills,Rent,2810.85,UPI
+465,2025-06-15,Education,Exam Fee,2295.75,UPI
+466,2025-06-15,Food,Dinner,588.19,UPI
+467,2025-06-15,Transport,Bus,365.78,UPI
+468,2025-06-16,Food,Dinner,120.58,UPI
+469,2025-06-16,Transport,Bus,305.71,UPI
+470,2025-06-16,Food,Dinner,490.93,UPI
+471,2025-06-17,Food,Snacks,545.18,UPI
+472,2025-06-18,Bills,Mobile Recharge,2205.77,Cash
+473,2025-06-18,Bills,Mobile Recharge,1358.43,UPI
+474,2025-06-19,Health,Medicine,2771.16,Net Banking
+475,2025-06-19,Food,Groceries,103.09,UPI
+476,2025-06-19,Food,Lunch,218.47,Cash
+477,2025-06-19,Food,Snacks,303.37,Cash
+478,2025-06-20,Food,Snacks,198.13,UPI
+479,2025-06-20,Education,Books,2571.91,Cash
+480,2025-06-21,Transport,Bus,26.57,UPI
+481,2025-06-21,Bills,Gas,2266.98,UPI
+482,2025-06-22,Food,Breakfast,387.31,Cash
+483,2025-06-22,Transport,Cab,33.37,Debit Card
+484,2025-06-22,Bills,Gas,2219.7,Cash
+485,2025-06-23,Food,Lunch,429.55,UPI
+486,2025-06-23,Health,Lab Test,2229.89,Debit Card
+487,2025-06-24,Health,Lab Test,2293.17,Cash
+488,2025-06-24,Food,Breakfast,473.93,UPI
+489,2025-06-24,Food,Restaurant,417.27,Credit Card
+490,2025-06-24,Food,Groceries,420.92,UPI
+491,2025-06-24,Bills,Internet,2659.82,Cash
+492,2025-06-25,Food,Lunch,470.4,UPI
+493,2025-06-25,Bills,Mobile Recharge,3342.75,UPI
+494,2025-06-25,Others,Repair,1596.7,Debit Card
+495,2025-06-25,Shopping,Online Shopping,2263.8,UPI
+496,2025-06-26,Transport,Fuel,268.68,Debit Card
+497,2025-06-26,Others,Personal Care,1097.35,Cash
+498,2025-06-26,Education,Books,1857.1,Credit Card
+499,2025-06-27,Others,Donation,926.61,Debit Card
+500,2025-06-27,Health,Pharmacy,309.12,Net Banking
+501,2025-06-27,Food,Snacks,363.98,UPI
+502,2025-06-28,Education,Online Course,4092.22,Cash
+503,2025-06-28,Food,Groceries,125.43,Debit Card
+504,2025-06-29,Food,Snacks,186.7,Cash
+505,2025-06-30,Bills,Rent,3429.59,UPI
+506,2025-06-30,Food,Groceries,560.76,UPI
+507,2025-06-30,Food,Lunch,81.34,UPI
+508,2025-07-02,Others,Miscellaneous,453.8,Cash
+509,2025-07-02,Education,Exam Fee,3717.12,Cash
+510,2025-07-03,Food,Dinner,254.7,UPI
+511,2025-07-04,Food,Snacks,98.73,UPI
+512,2025-07-04,Food,Groceries,499.82,Cash
+513,2025-07-05,Shopping,Home Items,4250.84,UPI
+514,2025-07-05,Food,Dinner,386.24,UPI
+515,2025-07-06,Food,Groceries,474.52,Credit Card
+516,2025-07-07,Transport,Auto,329.99,Cash
+517,2025-07-07,Entertainment,Outing,152.1,Cash
+518,2025-07-07,Others,Other,725.63,UPI
+519,2025-07-07,Entertainment,Events,1442.6,UPI
+520,2025-07-07,Education,Exam Fee,1026.01,UPI
+521,2025-07-09,Transport,Bus,253.11,UPI
+522,2025-07-10,Food,Breakfast,368.6,UPI
+523,2025-07-11,Entertainment,Movie,1560.95,Debit Card
+524,2025-07-11,Shopping,Clothes,305.73,UPI
+525,2025-07-11,Health,Health Checkup,1775.88,UPI
+526,2025-07-12,Bills,Gas,2868.47,UPI
+527,2025-07-12,Transport,Parking,215.62,UPI
+528,2025-07-12,Shopping,Home Items,4570.91,UPI
+529,2025-07-13,Entertainment,Events,370.12,UPI
+530,2025-07-14,Bills,Gas,3381.92,Cash
+531,2025-07-14,Entertainment,Movie,168.28,UPI
+532,2025-07-14,Bills,Internet,2871.33,Net Banking
+533,2025-07-15,Others,Repair,1628.95,Debit Card
+534,2025-07-15,Food,Snacks,347.61,UPI
+535,2025-07-15,Bills,Gas,3660.5,Cash
+536,2025-07-17,Food,Lunch,580.1,UPI
+537,2025-07-17,Bills,Mobile Recharge,1762.35,UPI
+538,2025-07-17,Others,Repair,367.71,UPI
+539,2025-07-18,Transport,Fuel,141.47,Debit Card
+540,2025-07-18,Food,Breakfast,415.3,Cash
+541,2025-07-18,Entertainment,OTT Subscription,673.64,UPI
+542,2025-07-18,Education,Training,1655.77,Cash
+543,2025-07-19,Others,Other,1075.52,UPI
+544,2025-07-19,Food,Groceries,554.65,Debit Card
+545,2025-07-21,Entertainment,Games,804.79,Net Banking
+546,2025-07-21,Transport,Fuel,261.26,UPI
+547,2025-07-21,Bills,Water Bill,2354.67,UPI
+548,2025-07-22,Food,Snacks,56.22,UPI
+549,2025-07-23,Entertainment,Events,1660.72,UPI
+550,2025-07-23,Transport,Bus,180.34,Credit Card
+551,2025-07-23,Food,Lunch,83.33,Debit Card
+552,2025-07-24,Bills,Rent,1581.14,UPI
+553,2025-07-25,Shopping,Home Items,2493.82,Debit Card
+554,2025-07-25,Bills,Electricity,827.97,Net Banking
+555,2025-07-25,Food,Dinner,216.99,UPI
+556,2025-07-25,Shopping,Clothes,3371.83,Net Banking
+557,2025-07-26,Food,Lunch,88.77,Credit Card
+558,2025-07-26,Transport,Parking,315.83,Cash
+559,2025-07-27,Entertainment,Music,1246.25,Debit Card
+560,2025-07-27,Food,Groceries,411.22,UPI
+561,2025-07-27,Bills,Mobile Recharge,150.12,Cash
+562,2025-07-27,Bills,Mobile Recharge,3642.11,UPI
+563,2025-07-28,Transport,Auto,47.7,UPI
+564,2025-07-28,Education,Stationery,739.35,UPI
+565,2025-07-29,Food,Snacks,496.46,Cash
+566,2025-07-29,Education,Training,2603.0,UPI
+567,2025-07-30,Food,Restaurant,285.12,Cash
+568,2025-08-01,Others,Other,1983.77,Credit Card
+569,2025-08-01,Others,Donation,854.04,UPI
+570,2025-08-02,Food,Lunch,494.44,UPI
+571,2025-08-02,Transport,Bus,442.16,UPI
+572,2025-08-02,Transport,Parking,434.24,UPI
+573,2025-08-03,Entertainment,Music,1672.32,UPI
+574,2025-08-03,Health,Pharmacy,2329.87,Debit Card
+575,2025-08-03,Transport,Cab,175.05,Credit Card
+576,2025-08-03,Shopping,Electronics,306.65,Net Banking
+577,2025-08-04,Food,Snacks,430.69,Cash
+578,2025-08-04,Transport,Train,236.17,Cash
+579,2025-08-04,Education,Course,445.45,Cash
+580,2025-08-04,Food,Lunch,415.31,UPI
+581,2025-08-04,Food,Groceries,274.28,UPI
+582,2025-08-05,Food,Lunch,538.89,UPI
+583,2025-08-05,Bills,Internet,3377.19,Debit Card
+584,2025-08-06,Shopping,Shoes,4592.43,UPI
+585,2025-08-06,Shopping,Accessories,2355.39,Cash
+586,2025-08-06,Shopping,Accessories,1712.05,Debit Card
+587,2025-08-07,Entertainment,Music,231.16,Debit Card
+588,2025-08-08,Bills,Internet,3554.85,UPI
+589,2025-08-08,Bills,Water Bill,3885.72,Debit Card
+590,2025-08-08,Health,Health Checkup,2172.68,Credit Card
+591,2025-08-09,Health,Medicine,2132.52,Debit Card
+592,2025-08-09,Food,Groceries,294.15,UPI
+593,2025-08-10,Bills,Rent,268.54,Credit Card
+594,2025-08-10,Bills,Mobile Recharge,2342.73,Credit Card
+595,2025-08-11,Food,Lunch,542.7,Debit Card
+596,2025-08-11,Others,Repair,915.98,UPI
+597,2025-08-11,Shopping,Online Shopping,448.81,UPI
+598,2025-08-11,Transport,Cab,213.33,Cash
+599,2025-08-12,Transport,Auto,455.54,UPI
+600,2025-08-12,Food,Dinner,179.27,Cash
+601,2025-08-12,Food,Snacks,470.49,Debit Card
+602,2025-08-12,Others,Personal Care,635.9,Debit Card
+603,2025-08-13,Transport,Train,477.07,UPI
+604,2025-08-13,Education,Stationery,4816.03,UPI
+605,2025-08-14,Food,Groceries,387.1,UPI
+606,2025-08-14,Food,Breakfast,246.17,Cash
+607,2025-08-14,Bills,Water Bill,1323.29,Cash
+608,2025-08-14,Bills,Rent,3585.36,Debit Card
+609,2025-08-14,Bills,Electricity,3486.21,Credit Card
+610,2025-08-14,Entertainment,Events,1046.45,UPI
+611,2025-08-14,Bills,Electricity,3883.87,Credit Card
+612,2025-08-15,Transport,Cab,278.57,UPI
+613,2025-08-15,Health,Doctor Visit,2197.87,Cash
+614,2025-08-15,Shopping,Shoes,806.07,UPI
+615,2025-08-15,Transport,Train,88.58,UPI
+616,2025-08-16,Shopping,Online Shopping,3910.83,Cash
+617,2025-08-16,Bills,Rent,1735.68,UPI
+618,2025-08-16,Transport,Parking,342.12,UPI
+619,2025-08-17,Entertainment,Outing,1569.96,UPI
+620,2025-08-17,Transport,Train,83.45,Cash
+621,2025-08-18,Food,Restaurant,356.83,UPI
+622,2025-08-19,Health,Lab Test,885.73,UPI
+623,2025-08-19,Transport,Auto,84.15,Debit Card
+624,2025-08-19,Transport,Bus,179.73,Credit Card
+625,2025-08-20,Shopping,Electronics,1726.64,UPI
+626,2025-08-20,Education,Online Course,4916.1,UPI
+627,2025-08-21,Education,Stationery,2414.94,Credit Card
+628,2025-08-21,Transport,Cab,238.87,Debit Card
+629,2025-08-21,Transport,Bus,288.84,UPI
+630,2025-08-22,Health,Pharmacy,1613.66,UPI
+631,2025-08-23,Bills,Internet,2141.37,UPI
+632,2025-08-24,Health,Medicine,1376.58,UPI
+633,2025-08-24,Food,Breakfast,214.69,UPI
+634,2025-08-24,Shopping,Online Shopping,4523.29,UPI
+635,2025-08-24,Transport,Bus,190.42,Net Banking
+636,2025-08-25,Transport,Fuel,455.65,UPI
+637,2025-08-25,Transport,Bus,180.14,UPI
+638,2025-08-25,Health,Health Checkup,1304.99,Debit Card
+639,2025-08-25,Others,Donation,420.86,UPI
+640,2025-08-26,Entertainment,Music,591.55,UPI
+641,2025-08-26,Entertainment,OTT Subscription,1018.14,Cash
+642,2025-08-27,Education,Exam Fee,3253.65,Cash
+643,2025-08-27,Shopping,Accessories,2827.59,UPI
+644,2025-08-27,Education,Exam Fee,3264.08,Net Banking
+645,2025-08-28,Shopping,Online Shopping,3700.33,UPI
+646,2025-08-29,Health,Lab Test,1717.68,UPI
+647,2025-08-29,Transport,Cab,360.92,Net Banking
+648,2025-08-29,Health,Medicine,1344.28,UPI
+649,2025-08-29,Shopping,Accessories,759.09,UPI
+650,2025-08-30,Shopping,Shoes,242.54,Debit Card
+651,2025-08-30,Health,Health Checkup,1276.68,UPI
+652,2025-08-30,Bills,Internet,2941.27,Net Banking
+653,2025-08-30,Education,Exam Fee,802.64,UPI
+654,2025-08-31,Health,Pharmacy,1662.24,UPI
+655,2025-08-31,Transport,Fuel,211.54,Cash
+656,2025-08-31,Education,Course,335.89,Debit Card
+657,2025-08-31,Bills,Rent,936.62,Debit Card
+658,2025-09-01,Transport,Fuel,493.55,Debit Card
+659,2025-09-02,Entertainment,Outing,498.7,UPI
+660,2025-09-02,Shopping,Online Shopping,3815.76,Credit Card
+661,2025-09-02,Transport,Bus,372.26,UPI
+662,2025-09-03,Others,Miscellaneous,1211.92,Cash
+663,2025-09-04,Shopping,Home Items,4982.4,Cash
+664,2025-09-05,Food,Lunch,149.43,UPI
+665,2025-09-06,Transport,Parking,298.51,UPI
+666,2025-09-06,Education,Course,1491.98,UPI
+667,2025-09-07,Food,Restaurant,593.55,UPI
+668,2025-09-07,Others,Other,651.11,UPI
+669,2025-09-08,Transport,Parking,424.15,Credit Card
+670,2025-09-08,Food,Breakfast,338.88,Cash
+671,2025-09-08,Education,Training,1655.33,UPI
+672,2025-09-08,Shopping,Clothes,1111.11,UPI
+673,2025-09-08,Health,Lab Test,930.91,UPI
+674,2025-09-08,Transport,Fuel,278.25,Net Banking
+675,2025-09-10,Transport,Bus,440.57,UPI
+676,2025-09-11,Food,Groceries,328.26,UPI
+677,2025-09-11,Transport,Bus,113.25,UPI
+678,2025-09-13,Food,Restaurant,257.03,UPI
+679,2025-09-14,Health,Medicine,2894.15,UPI
+680,2025-09-14,Shopping,Electronics,2988.56,UPI
+681,2025-09-15,Bills,Water Bill,1634.22,Net Banking
+682,2025-09-15,Others,Personal Care,1273.29,UPI
+683,2025-09-15,Food,Snacks,143.23,UPI
+684,2025-09-15,Shopping,Online Shopping,1703.68,UPI
+685,2025-09-16,Education,Training,4506.49,UPI
+686,2025-09-16,Health,Health Checkup,1138.61,Credit Card
+687,2025-09-17,Health,Pharmacy,2561.25,UPI
+688,2025-09-18,Shopping,Accessories,600.63,Debit Card
+689,2025-09-18,Food,Restaurant,532.49,Cash
+690,2025-09-18,Others,Gift,1109.25,UPI
+691,2025-09-19,Food,Restaurant,161.11,Debit Card
+692,2025-09-19,Education,Course,4784.29,Cash
+693,2025-09-19,Food,Breakfast,272.36,Credit Card
+694,2025-09-19,Others,Personal Care,2184.96,UPI
+695,2025-09-19,Shopping,Shoes,2579.38,UPI
+696,2025-09-19,Food,Dinner,177.2,UPI
+697,2025-09-20,Shopping,Clothes,4144.43,UPI
+698,2025-09-20,Health,Doctor Visit,2229.04,Cash
+699,2025-09-20,Bills,Electricity,3776.47,Debit Card
+700,2025-09-21,Food,Restaurant,171.44,Cash
+701,2025-09-21,Bills,Mobile Recharge,2481.19,UPI
+702,2025-09-21,Bills,Internet,2181.56,UPI
+703,2025-09-21,Others,Other,2373.83,Cash
+704,2025-09-21,Education,Exam Fee,2855.8,Credit Card
+705,2025-09-21,Shopping,Accessories,4035.96,UPI
+706,2025-09-22,Shopping,Online Shopping,952.7,UPI
+707,2025-09-23,Food,Lunch,568.56,UPI
+708,2025-09-23,Bills,Mobile Recharge,3965.84,Net Banking
+709,2025-09-23,Food,Snacks,57.53,Cash
+710,2025-09-23,Entertainment,Movie,895.52,UPI
+711,2025-09-24,Transport,Parking,73.27,UPI
+712,2025-09-24,Food,Snacks,89.14,UPI
+713,2025-09-24,Transport,Bus,313.68,Credit Card
+714,2025-09-25,Food,Restaurant,159.37,Net Banking
+715,2025-09-25,Entertainment,Movie,1489.5,UPI
+716,2025-09-26,Food,Groceries,479.22,Cash
+717,2025-09-26,Food,Groceries,52.1,Credit Card
+718,2025-09-26,Food,Dinner,342.87,UPI
+719,2025-09-26,Food,Snacks,317.2,UPI
+720,2025-09-26,Shopping,Shoes,268.79,UPI
+721,2025-09-27,Shopping,Clothes,382.5,UPI
+722,2025-09-27,Shopping,Online Shopping,2126.27,UPI
+723,2025-09-27,Bills,Internet,3453.39,Cash
+724,2025-09-27,Transport,Train,131.67,UPI
+725,2025-09-28,Food,Dinner,189.83,Cash
+726,2025-09-28,Others,Gift,210.95,Credit Card
+727,2025-09-28,Health,Lab Test,483.97,UPI
+728,2025-09-28,Entertainment,Events,855.6,UPI
+729,2025-09-28,Food,Snacks,169.84,UPI
+730,2025-09-29,Transport,Auto,404.66,Debit Card
+731,2025-09-29,Bills,Mobile Recharge,3988.26,Credit Card
+732,2025-09-30,Shopping,Accessories,2995.63,UPI
+733,2025-09-30,Food,Dinner,154.56,Debit Card
+734,2025-10-01,Food,Snacks,141.79,Debit Card
+735,2025-10-01,Transport,Auto,119.41,UPI
+736,2025-10-01,Shopping,Shoes,4411.31,Debit Card
+737,2025-10-02,Health,Pharmacy,2798.16,UPI
+738,2025-10-03,Bills,Electricity,3493.38,UPI
+739,2025-10-03,Food,Lunch,591.33,Debit Card
+740,2025-10-03,Food,Snacks,289.39,UPI
+741,2025-10-04,Shopping,Shoes,1921.18,Credit Card
+742,2025-10-04,Education,Exam Fee,647.34,Debit Card
+743,2025-10-04,Education,Training,631.41,Debit Card
+744,2025-10-05,Bills,Electricity,2932.42,Cash
+745,2025-10-06,Food,Lunch,172.68,Debit Card
+746,2025-10-06,Shopping,Electronics,314.94,UPI
+747,2025-10-07,Entertainment,Games,1950.97,UPI
+748,2025-10-07,Shopping,Online Shopping,580.55,UPI
+749,2025-10-08,Shopping,Home Items,2939.12,Cash
+750,2025-10-08,Entertainment,Movie,506.03,UPI
+751,2025-10-08,Bills,Gas,3007.83,Debit Card
+752,2025-10-09,Shopping,Online Shopping,2578.17,Cash
+753,2025-10-09,Others,Donation,231.56,UPI
+754,2025-10-09,Food,Lunch,165.94,UPI
+755,2025-10-09,Food,Lunch,222.18,Credit Card
+756,2025-10-11,Food,Snacks,401.78,UPI
+757,2025-10-11,Entertainment,Events,1951.07,UPI
+758,2025-10-12,Bills,Gas,623.24,UPI
+759,2025-10-12,Food,Breakfast,288.6,UPI
+760,2025-10-12,Shopping,Clothes,4837.03,Cash
+761,2025-10-12,Others,Donation,185.3,UPI
+762,2025-10-12,Food,Restaurant,332.62,Credit Card
+763,2025-10-13,Transport,Fuel,481.58,UPI
+764,2025-10-13,Shopping,Accessories,1024.78,Cash
+765,2025-10-14,Food,Restaurant,454.93,Debit Card
+766,2025-10-14,Food,Groceries,392.48,Debit Card
+767,2025-10-14,Food,Snacks,598.09,Cash
+768,2025-10-14,Others,Repair,721.27,Net Banking
+769,2025-10-15,Bills,Mobile Recharge,3831.46,Cash
+770,2025-10-15,Bills,Water Bill,553.51,Credit Card
+771,2025-10-15,Food,Lunch,254.71,Credit Card
+772,2025-10-15,Food,Groceries,147.43,Cash
+773,2025-10-15,Transport,Cab,240.09,Debit Card
+774,2025-10-15,Health,Health Checkup,1372.08,Debit Card
+775,2025-10-16,Entertainment,Movie,1381.75,Debit Card
+776,2025-10-16,Food,Breakfast,375.12,UPI
+777,2025-10-16,Health,Medicine,1148.96,UPI
+778,2025-10-16,Transport,Cab,444.73,UPI
+779,2025-10-16,Transport,Auto,187.44,Debit Card
+780,2025-10-17,Transport,Auto,183.4,Cash
+781,2025-10-17,Food,Restaurant,394.55,UPI
+782,2025-10-18,Bills,Internet,319.56,UPI
+783,2025-10-18,Education,Books,366.43,UPI
+784,2025-10-18,Shopping,Home Items,2191.16,UPI
+785,2025-10-18,Others,Gift,737.47,Cash
+786,2025-10-18,Bills,Rent,555.8,Credit Card
+787,2025-10-19,Others,Personal Care,2151.99,Cash
+788,2025-10-19,Bills,Gas,305.11,UPI
+789,2025-10-20,Shopping,Online Shopping,3349.58,Debit Card
+790,2025-10-20,Entertainment,Outing,401.93,UPI
+791,2025-10-20,Food,Dinner,62.0,Net Banking
+792,2025-10-20,Others,Other,2263.72,Cash
+793,2025-10-20,Health,Doctor Visit,2280.07,Debit Card
+794,2025-10-20,Education,Training,4121.47,UPI
+795,2025-10-20,Food,Snacks,442.07,UPI
+796,2025-10-20,Transport,Fuel,339.81,UPI
+797,2025-10-20,Entertainment,Events,1831.54,Debit Card
+798,2025-10-21,Food,Dinner,519.84,UPI
+799,2025-10-22,Transport,Fuel,490.18,Cash
+800,2025-10-22,Transport,Parking,47.67,Cash
+801,2025-10-22,Transport,Train,74.86,Credit Card
+802,2025-10-24,Food,Dinner,255.29,Cash
+803,2025-10-25,Education,Training,3826.5,Debit Card
+804,2025-10-25,Bills,Mobile Recharge,1936.66,Cash
+805,2025-10-26,Education,Exam Fee,4469.69,UPI
+806,2025-10-27,Food,Groceries,268.6,Debit Card
+807,2025-10-27,Others,Personal Care,623.05,UPI
+808,2025-10-27,Bills,Mobile Recharge,1888.53,UPI
+809,2025-10-27,Food,Groceries,87.39,UPI
+810,2025-10-28,Bills,Water Bill,1370.15,Credit Card
+811,2025-10-28,Education,Stationery,1421.08,Cash
+812,2025-10-28,Food,Snacks,280.7,Debit Card
+813,2025-10-28,Transport,Auto,280.16,Net Banking
+814,2025-10-28,Transport,Parking,322.42,Cash
+815,2025-10-28,Shopping,Electronics,4491.13,Debit Card
+816,2025-10-29,Food,Dinner,379.65,UPI
+817,2025-10-29,Education,Online Course,4745.77,UPI
+818,2025-10-29,Shopping,Online Shopping,1123.09,Credit Card
+819,2025-10-29,Bills,Water Bill,2547.6,UPI
+820,2025-10-29,Transport,Cab,227.73,Cash
+821,2025-10-30,Transport,Train,394.77,UPI
+822,2025-10-30,Transport,Train,67.94,UPI
+823,2025-10-30,Shopping,Electronics,1750.53,UPI
+824,2025-10-30,Education,Training,2870.99,UPI
+825,2025-10-30,Health,Health Checkup,781.48,UPI
+826,2025-10-30,Food,Groceries,267.8,UPI
+827,2025-10-31,Food,Restaurant,457.54,UPI
+828,2025-10-31,Transport,Bus,496.01,Credit Card
+829,2025-10-31,Transport,Parking,157.14,Debit Card
+830,2025-10-31,Food,Dinner,536.4,Debit Card
+831,2025-11-01,Shopping,Home Items,3845.11,UPI
+832,2025-11-01,Food,Dinner,581.87,UPI
+833,2025-11-01,Education,Exam Fee,238.23,UPI
+834,2025-11-01,Transport,Cab,238.34,Net Banking
+835,2025-11-01,Bills,Rent,2314.43,UPI
+836,2025-11-02,Education,Stationery,549.93,Credit Card
+837,2025-11-02,Food,Snacks,117.78,UPI
+838,2025-11-03,Shopping,Home Items,2039.76,Debit Card
+839,2025-11-04,Entertainment,Events,1612.26,Net Banking
+840,2025-11-05,Entertainment,Outing,1965.14,UPI
+841,2025-11-05,Shopping,Electronics,1499.87,UPI
+842,2025-11-06,Shopping,Electronics,2852.07,Credit Card
+843,2025-11-06,Education,Training,2299.91,Cash
+844,2025-11-06,Shopping,Online Shopping,1413.72,Credit Card
+845,2025-11-06,Food,Breakfast,276.26,UPI
+846,2025-11-06,Transport,Cab,358.67,UPI
+847,2025-11-06,Others,Repair,1360.67,Net Banking
+848,2025-11-07,Transport,Bus,110.25,UPI
+849,2025-11-07,Bills,Water Bill,284.41,Credit Card
+850,2025-11-07,Food,Groceries,451.6,Credit Card
+851,2025-11-07,Transport,Bus,179.18,Cash
+852,2025-11-08,Entertainment,Events,1312.11,UPI
+853,2025-11-08,Shopping,Electronics,2999.32,UPI
+854,2025-11-08,Food,Lunch,381.73,Cash
+855,2025-11-09,Food,Breakfast,399.02,UPI
+856,2025-11-09,Food,Dinner,525.0,UPI
+857,2025-11-10,Food,Lunch,515.93,Debit Card
+858,2025-11-10,Food,Dinner,377.45,UPI
+859,2025-11-11,Others,Gift,1967.09,Net Banking
+860,2025-11-12,Transport,Parking,99.12,Cash
+861,2025-11-12,Shopping,Home Items,4347.02,UPI
+862,2025-11-12,Transport,Fuel,310.6,Cash
+863,2025-11-12,Transport,Cab,248.29,UPI
+864,2025-11-12,Others,Donation,1332.33,UPI
+865,2025-11-12,Shopping,Electronics,1330.99,Credit Card
+866,2025-11-12,Health,Lab Test,2331.38,UPI
+867,2025-11-13,Food,Dinner,442.93,UPI
+868,2025-11-14,Entertainment,Movie,1420.57,UPI
+869,2025-11-14,Entertainment,Events,735.05,Net Banking
+870,2025-11-14,Bills,Mobile Recharge,3890.4,Cash
+871,2025-11-14,Food,Snacks,380.61,UPI
+872,2025-11-14,Food,Lunch,297.56,UPI
+873,2025-11-14,Bills,Mobile Recharge,3578.08,UPI
+874,2025-11-15,Shopping,Electronics,1150.87,UPI
+875,2025-11-15,Bills,Water Bill,1984.46,UPI
+876,2025-11-15,Food,Dinner,353.59,UPI
+877,2025-11-16,Transport,Cab,374.73,Cash
+878,2025-11-16,Others,Miscellaneous,1891.84,UPI
+879,2025-11-16,Education,Training,1902.7,Credit Card
+880,2025-11-17,Food,Groceries,355.32,Cash
+881,2025-11-17,Bills,Electricity,299.99,UPI
+882,2025-11-19,Entertainment,Games,1624.47,UPI
+883,2025-11-19,Transport,Train,124.88,UPI
+884,2025-11-19,Transport,Bus,436.72,UPI
+885,2025-11-19,Shopping,Online Shopping,4681.96,UPI
+886,2025-11-20,Shopping,Shoes,586.89,Credit Card
+887,2025-11-20,Education,Course,4606.8,Cash
+888,2025-11-20,Transport,Auto,291.97,UPI
+889,2025-11-20,Bills,Gas,1209.67,UPI
+890,2025-11-21,Others,Personal Care,85.84,Cash
+891,2025-11-21,Bills,Electricity,746.46,Debit Card
+892,2025-11-22,Transport,Auto,290.1,UPI
+893,2025-11-22,Food,Breakfast,412.73,UPI
+894,2025-11-22,Entertainment,Movie,678.54,UPI
+895,2025-11-22,Shopping,Accessories,3427.47,Cash
+896,2025-11-24,Others,Repair,251.32,Credit Card
+897,2025-11-24,Shopping,Clothes,4190.59,Debit Card
+898,2025-11-24,Entertainment,Games,922.26,Cash
+899,2025-11-24,Food,Lunch,232.71,Cash
+900,2025-11-24,Bills,Electricity,3747.07,UPI
+901,2025-11-25,Food,Groceries,217.17,Debit Card
+902,2025-11-26,Education,Online Course,2107.43,Net Banking
+903,2025-11-26,Transport,Parking,153.49,UPI
+904,2025-11-27,Food,Restaurant,583.35,UPI
+905,2025-11-27,Health,Medicine,2278.71,Cash
+906,2025-11-28,Shopping,Home Items,2359.24,UPI
+907,2025-11-28,Food,Dinner,426.82,Debit Card
+908,2025-11-28,Bills,Electricity,3717.22,Cash
+909,2025-11-29,Food,Groceries,348.4,UPI
+910,2025-11-29,Bills,Gas,1919.63,UPI
+911,2025-11-30,Food,Breakfast,107.02,Cash
+912,2025-11-30,Shopping,Clothes,1237.89,UPI
+913,2025-11-30,Food,Lunch,166.12,Cash
+914,2025-11-30,Shopping,Home Items,4142.0,UPI
+915,2025-12-01,Bills,Rent,3947.8,UPI
+916,2025-12-01,Entertainment,Events,218.67,UPI
+917,2025-12-01,Food,Restaurant,62.18,Cash
+918,2025-12-02,Bills,Water Bill,1570.85,UPI
+919,2025-12-02,Food,Groceries,63.88,UPI
+920,2025-12-02,Others,Donation,441.08,UPI
+921,2025-12-02,Education,Course,251.43,UPI
+922,2025-12-02,Bills,Internet,3466.57,UPI
+923,2025-12-03,Others,Donation,1646.52,Debit Card
+924,2025-12-04,Transport,Parking,442.31,UPI
+925,2025-12-04,Transport,Train,104.11,Cash
+926,2025-12-05,Food,Breakfast,398.25,UPI
+927,2025-12-05,Food,Restaurant,461.49,UPI
+928,2025-12-06,Food,Restaurant,233.98,Cash
+929,2025-12-06,Bills,Rent,2157.62,Credit Card
+930,2025-12-06,Shopping,Home Items,4163.41,Cash
+931,2025-12-07,Food,Snacks,177.63,UPI
+932,2025-12-07,Education,Books,2621.39,UPI
+933,2025-12-08,Shopping,Online Shopping,884.27,UPI
+934,2025-12-08,Others,Miscellaneous,2383.35,Cash
+935,2025-12-09,Entertainment,Movie,1353.06,UPI
+936,2025-12-10,Shopping,Electronics,950.63,UPI
+937,2025-12-10,Transport,Cab,92.6,UPI
+938,2025-12-10,Others,Personal Care,2425.54,UPI
+939,2025-12-10,Food,Restaurant,314.49,UPI
+940,2025-12-10,Food,Restaurant,301.86,Cash
+941,2025-12-11,Entertainment,Outing,1339.35,UPI
+942,2025-12-11,Health,Pharmacy,752.62,UPI
+943,2025-12-11,Shopping,Clothes,4679.38,Cash
+944,2025-12-11,Education,Books,3886.43,UPI
+945,2025-12-11,Shopping,Electronics,4974.48,UPI
+946,2025-12-13,Transport,Auto,207.14,UPI
+947,2025-12-13,Transport,Bus,285.49,UPI
+948,2025-12-13,Shopping,Electronics,4295.56,UPI
+949,2025-12-14,Health,Lab Test,2376.1,Debit Card
+950,2025-12-14,Bills,Electricity,1965.85,Cash
+951,2025-12-15,Others,Donation,442.18,Cash
+952,2025-12-15,Food,Groceries,138.89,UPI
+953,2025-12-15,Health,Pharmacy,1462.26,UPI
+954,2025-12-15,Shopping,Home Items,2602.9,Cash
+955,2025-12-15,Transport,Train,261.78,UPI
+956,2025-12-16,Shopping,Shoes,2770.66,Debit Card
+957,2025-12-16,Shopping,Electronics,1682.99,UPI
+958,2025-12-16,Transport,Bus,178.54,UPI
+959,2025-12-17,Education,Books,677.82,UPI
+960,2025-12-18,Food,Groceries,203.32,Net Banking
+961,2025-12-18,Bills,Rent,3181.44,Credit Card
+962,2025-12-18,Transport,Cab,23.09,Debit Card
+963,2025-12-19,Education,Exam Fee,3457.62,Cash
+964,2025-12-19,Others,Personal Care,416.52,UPI
+965,2025-12-19,Others,Personal Care,1879.6,Debit Card
+966,2025-12-19,Bills,Internet,3519.35,UPI
+967,2025-12-19,Food,Lunch,564.46,Debit Card
+968,2025-12-20,Education,Online Course,2635.58,Cash
+969,2025-12-20,Shopping,Home Items,3780.13,Debit Card
+970,2025-12-20,Shopping,Electronics,2195.72,Cash
+971,2025-12-20,Transport,Fuel,425.0,Cash
+972,2025-12-21,Health,Pharmacy,2254.94,Cash
+973,2025-12-21,Entertainment,Games,1928.3,UPI
+974,2025-12-22,Entertainment,Games,529.93,UPI
+975,2025-12-22,Shopping,Online Shopping,4923.26,UPI
+976,2025-12-22,Transport,Auto,230.42,Cash
+977,2025-12-23,Shopping,Shoes,3984.55,Cash
+978,2025-12-23,Shopping,Online Shopping,2019.65,Cash
+979,2025-12-24,Health,Doctor Visit,548.03,UPI
+980,2025-12-25,Transport,Cab,117.41,UPI
+981,2025-12-25,Education,Online Course,3870.65,Credit Card
+982,2025-12-25,Bills,Water Bill,3930.34,Cash
+983,2025-12-26,Food,Restaurant,580.22,Cash
+984,2025-12-26,Education,Online Course,1682.41,Net Banking
+985,2025-12-26,Food,Breakfast,212.66,Cash
+986,2025-12-27,Bills,Rent,1853.8,Debit Card
+987,2025-12-27,Health,Health Checkup,2821.4,Cash
+988,2025-12-27,Education,Stationery,496.68,UPI
+989,2025-12-27,Food,Snacks,451.12,UPI
+990,2025-12-28,Food,Snacks,199.1,UPI
+991,2025-12-28,Entertainment,Outing,1378.41,UPI
+992,2025-12-29,Food,Lunch,367.46,Credit Card
+993,2025-12-29,Shopping,Shoes,348.59,UPI
+994,2025-12-30,Health,Lab Test,366.43,UPI
+995,2025-12-30,Entertainment,Movie,125.18,UPI
+996,2025-12-30,Shopping,Home Items,2202.53,Cash
+997,2025-12-30,Food,Lunch,484.88,UPI
+998,2025-12-31,Shopping,Accessories,670.8,Credit Card
+999,2025-12-31,Education,Training,4908.74,Cash
+1000,2025-12-31,Transport,Parking,223.3,UPI
