@@ -1,0 +1,1001 @@
+date,description,amount,payment_method,category
+2025-01-01,Gaming arcade zone card,483.5,Credit Card,Entertainment
+2025-01-01,Water supply municipal bill,742.89,UPI,Utilities
+2025-01-01,Haldiram sweet snacks,1594.11,Credit Card,Food
+2025-01-03,Apollo Pharmacy medicines,3361.1,Credit Card,Healthcare
+2025-01-04,Grocery shopping bigbasket,866.73,UPI,Food
+2025-01-04,Two-wheeler vehicle servicing,242.85,Cash,Transport
+2025-01-05,KFC chicken bucket,176.83,UPI,Food
+2025-01-05,Udemy Python data science course,1891.84,Cash,Education
+2025-01-05,Amazon fashion wardrobe,4639.58,UPI,Shopping
+2025-01-05,Subway sandwich lunch,1047.3,Credit Card,Food
+2025-01-05,Barbeque Nation buffet,537.04,Credit Card,Food
+2025-01-05,Barbeque Nation buffet,124.07,Credit Card,Food
+2025-01-06,Haldiram sweet snacks,1134.75,Credit Card,Food
+2025-01-07,YouTube Premium family plan,784.48,Debit Card,Entertainment
+2025-01-08,Bakery fresh bread cakes,906.24,Debit Card,Food
+2025-01-08,Subway sandwich lunch,1393.2,UPI,Food
+2025-01-08,Domino's pizza party,630.05,Debit Card,Food
+2025-01-08,Spotify premium annual,1979.26,UPI,Entertainment
+2025-01-09,Coursera ML specialization fee,3246.37,UPI,Education
+2025-01-09,Local fruit and vegetable vendor,864.39,UPI,Food
+2025-01-09,Croma portable powerbank,3549.92,UPI,Electronics
+2025-01-10,Electricity bill Bescom,3387.36,UPI,Utilities
+2025-01-10,Notion AI productivity tool,1022.19,UPI,Education
+2025-01-11,Museum and gallery entry,806.16,Cash,Entertainment
+2025-01-12,Uber city cab ride,1500.96,Debit Card,Transport
+2025-01-12,Solar geyser maintenance,4222.43,Cash,Utilities
+2025-01-12,Fastag toll plaza payment,1753.3,UPI,Transport
+2025-01-12,Two-wheeler vehicle servicing,909.02,UPI,Transport
+2025-01-13,Shell petrol bunk diesel,735.59,Debit Card,Transport
+2025-01-14,House cleaning deep sanitization,4917.25,Net Banking,Utilities
+2025-01-14,Gaming arcade zone card,578.02,Cash,Entertainment
+2025-01-15,Solar geyser maintenance,4220.52,UPI,Utilities
+2025-01-15,PlayStation store games,1621.51,Cash,Entertainment
+2025-01-15,Ajio ethnic wear kurti,4212.91,UPI,Shopping
+2025-01-16,Wildcraft backpack travel,5334.3,Cash,Shopping
+2025-01-16,Hotstar cricket subscription,1743.35,UPI,Entertainment
+2025-01-17,Swiggy food order,556.07,UPI,Food
+2025-01-17,Organic kitchen milk curd,968.95,UPI,Food
+2025-01-18,Barbeque Nation buffet,849.06,Debit Card,Food
+2025-01-18,Petrol bunk fuel refill,960.67,UPI,Transport
+2025-01-18,Ola auto commute,1524.54,Credit Card,Transport
+2025-01-19,Ola auto commute,165.62,UPI,Transport
+2025-01-20,Concert music show pass,1129.08,Credit Card,Entertainment
+2025-01-20,College semester examination fee,1059.0,Debit Card,Education
+2025-01-20,Zomato dinner delivery,1532.37,Net Banking,Food
+2025-01-20,Barbeque Nation buffet,783.09,UPI,Food
+2025-01-20,Haldiram sweet snacks,1254.01,Credit Card,Food
+2025-01-21,PNG cooking gas cylinder,4656.56,UPI,Utilities
+2025-01-21,Amazon fashion wardrobe,3421.17,UPI,Shopping
+2025-01-21,Bowling alley amusement park,417.66,UPI,Entertainment
+2025-01-22,House cleaning deep sanitization,3923.6,Debit Card,Utilities
+2025-01-23,Udemy Python data science course,2064.75,UPI,Education
+2025-01-24,Water supply municipal bill,4886.71,UPI,Utilities
+2025-01-24,Home plumbing faucet repair,2523.75,Credit Card,Others
+2025-01-24,Starbucks coffee & snack,121.01,UPI,Food
+2025-01-25,Subway sandwich lunch,1066.65,UPI,Food
+2025-01-25,Noise smartwatch fitness tracker,2596.16,Cash,Electronics
+2025-01-25,Levis denim jeans,1776.91,UPI,Shopping
+2025-01-25,Research paper IEEE access,4109.61,Debit Card,Education
+2025-01-26,House cleaning deep sanitization,1732.66,UPI,Utilities
+2025-01-26,Westside formal shirt trousers,2829.75,UPI,Shopping
+2025-01-27,Tata Play DTH recharge,3388.09,Cash,Utilities
+2025-01-27,SanDisk external SSD drive,2832.08,Cash,Electronics
+2025-01-27,Blinkit quick snacks,861.24,UPI,Food
+2025-01-27,Apple lightning charging cable,2254.0,Credit Card,Electronics
+2025-01-27,Noise smartwatch fitness tracker,1432.85,UPI,Electronics
+2025-01-28,PNG cooking gas cylinder,3644.02,Credit Card,Utilities
+2025-01-28,Pet care dog food vaccine,1951.31,Credit Card,Others
+2025-01-29,Wildcraft backpack travel,1790.77,UPI,Shopping
+2025-01-29,Amazon Prime video renew,337.25,Credit Card,Entertainment
+2025-01-30,Apple lightning charging cable,2706.94,UPI,Electronics
+2025-01-30,Zara casual clothing,1771.8,Debit Card,Shopping
+2025-02-01,Amazon Prime video renew,1160.2,Credit Card,Entertainment
+2025-02-01,Amazon Prime video renew,2281.36,Credit Card,Entertainment
+2025-02-01,Grocery shopping bigbasket,181.66,Debit Card,Food
+2025-02-01,Eye clinic glasses frames,2926.13,UPI,Healthcare
+2025-02-02,Amazon fashion wardrobe,1973.6,UPI,Shopping
+2025-02-02,Westside formal shirt trousers,2255.24,Credit Card,Shopping
+2025-02-02,Airtel broadband wifi bill,2037.25,Cash,Utilities
+2025-02-03,Wildcraft backpack travel,4297.27,UPI,Shopping
+2025-02-03,Swiggy food order,1334.81,UPI,Food
+2025-02-03,Metro smart card recharge,670.36,Cash,Transport
+2025-02-03,Decathlon sports gear,4816.19,UPI,Shopping
+2025-02-03,Cafe Coffee Day latte,884.13,Cash,Food
+2025-02-04,Rapido bike taxi ride,1160.32,UPI,Transport
+2025-02-04,PNG cooking gas cylinder,394.55,UPI,Utilities
+2025-02-05,Bus transit daily pass,1654.57,Debit Card,Transport
+2025-02-05,Wildcraft backpack travel,1232.64,Net Banking,Shopping
+2025-02-06,Bus transit daily pass,697.47,Debit Card,Transport
+2025-02-06,Metro smart card recharge,1619.09,UPI,Transport
+2025-02-07,Monitor screen HDMI converter,3579.61,UPI,Electronics
+2025-02-07,Airtel broadband wifi bill,1657.65,UPI,Utilities
+2025-02-07,McDonald's burger meal,641.56,Credit Card,Food
+2025-02-07,Mi home smart security camera,3835.6,UPI,Electronics
+2025-02-08,H&M summer t-shirt,4576.93,Credit Card,Shopping
+2025-02-08,Solar geyser maintenance,978.97,Credit Card,Utilities
+2025-02-08,Domino's pizza party,338.09,UPI,Food
+2025-02-08,Westside formal shirt trousers,2956.73,Cash,Shopping
+2025-02-09,YouTube Premium family plan,312.1,Cash,Entertainment
+2025-02-10,Dry cleaning laundry service,438.7,Cash,Others
+2025-02-10,Myntra festival shoes,4324.58,Cash,Shopping
+2025-02-10,Domino's pizza party,648.21,Credit Card,Food
+2025-02-10,Netflix monthly subscription,1348.12,Credit Card,Entertainment
+2025-02-11,Practo doctor consultation,3167.74,UPI,Healthcare
+2025-02-11,Grocery shopping bigbasket,620.24,UPI,Food
+2025-02-12,Westside formal shirt trousers,2959.75,Credit Card,Shopping
+2025-02-12,Coursera ML specialization fee,1355.23,UPI,Education
+2025-02-12,Levis denim jeans,669.48,Credit Card,Shopping
+2025-02-12,Tata Play DTH recharge,2268.76,Credit Card,Utilities
+2025-02-13,Bakery fresh bread cakes,1087.5,UPI,Food
+2025-02-13,Subway sandwich lunch,905.78,UPI,Food
+2025-02-14,Zomato dinner delivery,1482.98,Debit Card,Food
+2025-02-15,Spotify premium annual,2269.34,UPI,Entertainment
+2025-02-15,Subway sandwich lunch,1140.0,UPI,Food
+2025-02-15,Pet care dog food vaccine,324.76,UPI,Others
+2025-02-15,Fastag toll plaza payment,762.22,UPI,Transport
+2025-02-16,Electricity bill Bescom,4356.55,Debit Card,Utilities
+2025-02-16,Physiotherapy rehabilitation session,2340.23,UPI,Healthcare
+2025-02-16,Metro smart card recharge,1356.27,Credit Card,Transport
+2025-02-17,Fastag toll plaza payment,1080.36,UPI,Transport
+2025-02-17,Organic kitchen milk curd,213.25,UPI,Food
+2025-02-17,Practo doctor consultation,3044.98,UPI,Healthcare
+2025-02-17,Cambridge English exam prep book,4164.73,Credit Card,Education
+2025-02-17,Bowling alley amusement park,894.33,Debit Card,Entertainment
+2025-02-18,Apartment maintenance society,3623.71,UPI,Utilities
+2025-02-19,Electricity bill Bescom,593.38,Credit Card,Utilities
+2025-02-19,Jio mobile postpaid bill,3494.07,Credit Card,Utilities
+2025-02-20,Bus transit daily pass,1351.92,UPI,Transport
+2025-02-20,Myntra festival shoes,1081.64,UPI,Shopping
+2025-02-21,Shell petrol bunk diesel,1859.37,UPI,Transport
+2025-02-21,PNG cooking gas cylinder,3641.17,Net Banking,Utilities
+2025-02-21,Kindle technical ebook,2014.99,UPI,Education
+2025-02-22,Netflix monthly subscription,670.33,Credit Card,Entertainment
+2025-02-23,Petrol bunk fuel refill,751.53,UPI,Transport
+2025-02-23,Barbeque Nation buffet,1201.06,UPI,Food
+2025-02-23,Temple charity donation trust,1630.96,Cash,Others
+2025-02-23,YouTube Premium family plan,2418.74,UPI,Entertainment
+2025-02-24,Electricity bill Bescom,2599.7,UPI,Utilities
+2025-02-24,Bakery fresh bread cakes,717.34,Net Banking,Food
+2025-02-25,Airtel broadband wifi bill,1097.09,Credit Card,Utilities
+2025-02-25,Rapido bike taxi ride,543.81,UPI,Transport
+2025-02-25,Dry cleaning laundry service,582.9,UPI,Others
+2025-02-25,Solar geyser maintenance,4212.55,UPI,Utilities
+2025-02-26,MakeMyTrip international round-trip flights,56327.79,Debit Card,Transport
+2025-02-27,Organic kitchen milk curd,453.95,UPI,Food
+2025-02-27,Decathlon sports gear,5223.38,Credit Card,Shopping
+2025-02-27,Bus transit daily pass,1009.81,Credit Card,Transport
+2025-02-27,Apple lightning charging cable,643.22,UPI,Electronics
+2025-02-28,First aid essentials kit,2575.36,UPI,Healthcare
+2025-02-28,1mg health diagnostic check,1361.82,UPI,Healthcare
+2025-02-28,Two-wheeler vehicle servicing,577.0,UPI,Transport
+2025-02-28,Grocery shopping bigbasket,540.64,Credit Card,Food
+2025-03-01,Metro smart card recharge,209.28,Credit Card,Transport
+2025-03-01,Birthday gift friend packaging,168.82,UPI,Others
+2025-03-01,KFC chicken bucket,699.73,UPI,Food
+2025-03-01,Starbucks coffee & snack,1613.76,UPI,Food
+2025-03-02,KFC chicken bucket,911.61,UPI,Food
+2025-03-02,Bakery fresh bread cakes,911.47,UPI,Food
+2025-03-02,Grocery shopping bigbasket,1354.19,Debit Card,Food
+2025-03-02,Skin specialist derma cream,1940.57,Cash,Healthcare
+2025-03-02,PNG cooking gas cylinder,3657.0,Debit Card,Utilities
+2025-03-02,Water supply municipal bill,1130.34,Credit Card,Utilities
+2025-03-02,Flight ticket MakeMyTrip,79.61,Credit Card,Transport
+2025-03-03,PlayStation store games,1553.63,UPI,Entertainment
+2025-03-03,Domino's pizza party,598.59,Net Banking,Food
+2025-03-03,PlayStation store games,1289.99,UPI,Entertainment
+2025-03-04,Blinkit quick snacks,855.85,Credit Card,Food
+2025-03-04,Barbeque Nation buffet,281.19,UPI,Food
+2025-03-04,YouTube Premium family plan,1128.74,UPI,Entertainment
+2025-03-04,Bakery fresh bread cakes,623.38,Cash,Food
+2025-03-04,Concert music show pass,786.85,UPI,Entertainment
+2025-03-05,Barbeque Nation buffet,1099.67,Debit Card,Food
+2025-03-05,Blinkit quick snacks,1414.97,UPI,Food
+2025-03-06,Hotstar cricket subscription,531.19,UPI,Entertainment
+2025-03-06,Swiggy food order,993.14,Credit Card,Food
+2025-03-06,First aid essentials kit,741.59,Debit Card,Healthcare
+2025-03-06,Airport parking charges,365.29,Debit Card,Transport
+2025-03-07,Ola auto commute,732.74,Credit Card,Transport
+2025-03-07,Amazon wireless mouse keyboard,3156.88,Debit Card,Electronics
+2025-03-08,SanDisk external SSD drive,5241.69,Credit Card,Electronics
+2025-03-08,Subway sandwich lunch,856.35,UPI,Food
+2025-03-08,Haldiram sweet snacks,1217.16,Credit Card,Food
+2025-03-09,Birthday gift friend packaging,645.59,Cash,Others
+2025-03-09,Grocery shopping bigbasket,1185.99,UPI,Food
+2025-03-09,Practo doctor consultation,3296.96,Net Banking,Healthcare
+2025-03-10,Fastag toll plaza payment,726.38,UPI,Transport
+2025-03-11,Research paper IEEE access,3007.28,Cash,Education
+2025-03-12,Titan wrist watch,1672.96,Debit Card,Shopping
+2025-03-12,Tata Play DTH recharge,2100.17,Credit Card,Utilities
+2025-03-12,McDonald's burger meal,858.49,UPI,Food
+2025-03-12,Nike running shoes,2897.94,UPI,Shopping
+2025-03-13,Bowling alley amusement park,333.67,Debit Card,Entertainment
+2025-03-13,Cafe Coffee Day latte,393.01,Credit Card,Food
+2025-03-13,Airtel broadband wifi bill,1246.89,UPI,Utilities
+2025-03-16,Emergency hospitalization & surgery bill,68654.8,Cash,Healthcare
+2025-03-16,Tata Play DTH recharge,2131.44,UPI,Utilities
+2025-03-16,Westside formal shirt trousers,5515.31,Credit Card,Shopping
+2025-03-16,Starbucks coffee & snack,1015.13,Net Banking,Food
+2025-03-16,Uber city cab ride,831.05,Cash,Transport
+2025-03-16,Electricity bill Bescom,1038.08,UPI,Utilities
+2025-03-17,BookMyShow cinema tickets,804.92,UPI,Entertainment
+2025-03-17,YouTube Premium family plan,391.67,Credit Card,Entertainment
+2025-03-17,Zomato dinner delivery,541.06,Credit Card,Food
+2025-03-17,Blinkit quick snacks,1184.65,UPI,Food
+2025-03-17,Airport parking charges,205.54,UPI,Transport
+2025-03-17,Notion AI productivity tool,4586.02,UPI,Education
+2025-03-17,Subway sandwich lunch,983.31,Credit Card,Food
+2025-03-18,House cleaning deep sanitization,3412.89,Debit Card,Utilities
+2025-03-19,Croma portable powerbank,4895.05,UPI,Electronics
+2025-03-19,Spotify premium annual,1846.42,Net Banking,Entertainment
+2025-03-20,Stationery notebooks pens spiral,3776.37,UPI,Education
+2025-03-20,H&M summer t-shirt,3753.52,UPI,Shopping
+2025-03-21,Zomato dinner delivery,840.6,Credit Card,Food
+2025-03-21,Flight ticket MakeMyTrip,510.31,UPI,Transport
+2025-03-21,PlayStation store games,42777.87,UPI,Entertainment
+2025-03-21,Zomato dinner delivery,632.26,UPI,Food
+2025-03-22,Starbucks coffee & snack,906.97,Credit Card,Food
+2025-03-22,Physiotherapy rehabilitation session,399.34,UPI,Healthcare
+2025-03-22,Subway sandwich lunch,1540.26,UPI,Food
+2025-03-23,Dr Lal PathLabs blood test,2512.86,UPI,Healthcare
+2025-03-24,KFC chicken bucket,1059.21,UPI,Food
+2025-03-24,H&M summer t-shirt,1546.94,Debit Card,Shopping
+2025-03-24,Indian Railways train ticket,1006.7,Debit Card,Transport
+2025-03-24,Bakery fresh bread cakes,261.49,UPI,Food
+2025-03-25,Airtel broadband wifi bill,1114.84,Credit Card,Utilities
+2025-03-25,PNG cooking gas cylinder,2458.43,UPI,Utilities
+2025-03-26,Zara casual clothing,2713.03,Credit Card,Shopping
+2025-03-27,Local fruit and vegetable vendor,902.92,UPI,Food
+2025-03-27,Temple charity donation trust,2439.13,UPI,Others
+2025-03-27,Swiggy food order,764.2,Net Banking,Food
+2025-03-28,PNG cooking gas cylinder,487.82,UPI,Utilities
+2025-03-29,College semester examination fee,4594.73,UPI,Education
+2025-03-29,Barbeque Nation buffet,1462.63,Credit Card,Food
+2025-03-29,Bowling alley amusement park,446.61,Debit Card,Entertainment
+2025-03-29,Subway sandwich lunch,872.41,UPI,Food
+2025-03-30,Eye clinic glasses frames,491.32,UPI,Healthcare
+2025-03-30,Myntra festival shoes,4567.5,Credit Card,Shopping
+2025-03-31,Amazon fashion wardrobe,5834.92,Debit Card,Shopping
+2025-03-31,Shell petrol bunk diesel,917.4,Credit Card,Transport
+2025-03-31,Fastag toll plaza payment,745.42,Credit Card,Transport
+2025-03-31,Tanishq 22K gold jewelry shopping,19362.26,Net Banking,Shopping
+2025-03-31,PNG cooking gas cylinder,3795.43,Credit Card,Utilities
+2025-03-31,Tanishq 22K gold jewelry shopping,61302.93,UPI,Shopping
+2025-04-01,Courier postal speed service,2190.8,UPI,Others
+2025-04-01,Bowling alley amusement park,1856.57,UPI,Entertainment
+2025-04-02,Barbeque Nation buffet,1300.41,Net Banking,Food
+2025-04-02,Apollo Pharmacy medicines,420.94,Net Banking,Healthcare
+2025-04-02,Shoppers Stop retail shopping,775.54,Credit Card,Shopping
+2025-04-02,Flight ticket MakeMyTrip,1833.04,UPI,Transport
+2025-04-03,Spotify premium annual,1572.16,Cash,Entertainment
+2025-04-03,Organic kitchen milk curd,1070.87,UPI,Food
+2025-04-04,Garbage collection civic fee,2093.31,UPI,Utilities
+2025-04-04,Blinkit quick snacks,1426.14,Cash,Food
+2025-04-05,Jio mobile postpaid bill,1161.12,UPI,Utilities
+2025-04-05,Spotify premium annual,1324.05,UPI,Entertainment
+2025-04-05,Apartment maintenance society,2948.24,UPI,Utilities
+2025-04-05,Blinkit quick snacks,761.05,UPI,Food
+2025-04-06,Organic kitchen milk curd,1399.55,Cash,Food
+2025-04-06,Pet care dog food vaccine,2498.81,Cash,Others
+2025-04-06,Metro smart card recharge,1850.91,Credit Card,Transport
+2025-04-07,Wildcraft backpack travel,5284.1,UPI,Shopping
+2025-04-07,Ola auto commute,326.55,Debit Card,Transport
+2025-04-08,Apple lightning charging cable,4695.08,Cash,Electronics
+2025-04-08,KFC chicken bucket,1571.96,Credit Card,Food
+2025-04-08,College semester examination fee,1897.52,Credit Card,Education
+2025-04-08,Electricity bill Bescom,3880.77,UPI,Utilities
+2025-04-08,Airport parking charges,1097.74,Credit Card,Transport
+2025-04-08,Zomato dinner delivery,699.43,Debit Card,Food
+2025-04-08,Birthday gift friend packaging,707.57,UPI,Others
+2025-04-08,Home plumbing faucet repair,2495.36,Debit Card,Others
+2025-04-09,Bakery fresh bread cakes,919.7,Net Banking,Food
+2025-04-09,Shoppers Stop retail shopping,926.69,UPI,Shopping
+2025-04-10,Wildcraft backpack travel,4718.87,Credit Card,Shopping
+2025-04-10,Westside formal shirt trousers,5499.1,UPI,Shopping
+2025-04-11,Fastag toll plaza payment,1934.43,UPI,Transport
+2025-04-11,Grocery shopping bigbasket,310.4,UPI,Food
+2025-04-11,Apartment maintenance society,2950.79,Debit Card,Utilities
+2025-04-12,Bus transit daily pass,310.06,Credit Card,Transport
+2025-04-12,Tata Play DTH recharge,2203.62,Credit Card,Utilities
+2025-04-13,Netflix monthly subscription,1016.98,Credit Card,Entertainment
+2025-04-13,First aid essentials kit,1403.32,Credit Card,Healthcare
+2025-04-14,Airport parking charges,964.25,Net Banking,Transport
+2025-04-14,Levis denim jeans,1526.42,UPI,Shopping
+2025-04-14,KFC chicken bucket,622.7,UPI,Food
+2025-04-14,Monitor screen HDMI converter,5302.61,Cash,Electronics
+2025-04-14,Amazon Prime video renew,1534.06,Net Banking,Entertainment
+2025-04-16,Zara casual clothing,3413.78,Credit Card,Shopping
+2025-04-16,Indian Railways train ticket,1100.72,Credit Card,Transport
+2025-04-17,Decathlon sports gear,876.1,Credit Card,Shopping
+2025-04-18,Titan wrist watch,1635.42,UPI,Shopping
+2025-04-18,Car wash doorstep vacuum,117.73,Debit Card,Others
+2025-04-19,Airtel broadband wifi bill,2181.06,Credit Card,Utilities
+2025-04-19,Uber city cab ride,1455.42,UPI,Transport
+2025-04-19,KFC chicken bucket,1316.46,UPI,Food
+2025-04-19,Zara casual clothing,2417.55,UPI,Shopping
+2025-04-20,Garbage collection civic fee,1925.1,UPI,Utilities
+2025-04-20,Museum and gallery entry,716.62,UPI,Entertainment
+2025-04-21,Croma portable powerbank,3566.47,Debit Card,Electronics
+2025-04-21,KFC chicken bucket,137.33,UPI,Food
+2025-04-22,Haldiram sweet snacks,1239.16,Credit Card,Food
+2025-04-22,Amazon wireless mouse keyboard,602.89,UPI,Electronics
+2025-04-22,Indian Railways train ticket,1827.16,Cash,Transport
+2025-04-22,Rapido bike taxi ride,1286.74,Credit Card,Transport
+2025-04-22,Electricity bill Bescom,1076.62,UPI,Utilities
+2025-04-23,Hotstar cricket subscription,1777.87,Cash,Entertainment
+2025-04-23,Shoppers Stop retail shopping,5153.35,Credit Card,Shopping
+2025-04-23,DataCamp yearly learning subscription,3566.49,Credit Card,Education
+2025-04-24,Practo doctor consultation,307.39,UPI,Healthcare
+2025-04-24,Haldiram sweet snacks,1515.34,Debit Card,Food
+2025-04-24,Myntra festival shoes,2940.18,Debit Card,Shopping
+2025-04-24,Temple charity donation trust,975.13,Credit Card,Others
+2025-04-24,House cleaning deep sanitization,447.62,UPI,Utilities
+2025-04-24,Home plumbing faucet repair,173.2,UPI,Others
+2025-04-25,Multi-plug spike surge protector,3375.28,Cash,Electronics
+2025-04-25,Wildcraft backpack travel,3020.51,UPI,Shopping
+2025-04-25,Notion AI productivity tool,3564.25,UPI,Education
+2025-04-26,Shoppers Stop retail shopping,4035.97,Debit Card,Shopping
+2025-04-26,Garbage collection civic fee,1898.87,Credit Card,Utilities
+2025-04-26,McDonald's burger meal,487.76,UPI,Food
+2025-04-26,Gaming arcade zone card,281.39,Credit Card,Entertainment
+2025-04-26,House cleaning deep sanitization,2339.13,UPI,Utilities
+2025-04-26,Water supply municipal bill,3925.26,Net Banking,Utilities
+2025-04-27,Haldiram sweet snacks,916.71,Debit Card,Food
+2025-04-28,Croma portable powerbank,1105.39,UPI,Electronics
+2025-04-29,Pet care dog food vaccine,1766.96,UPI,Others
+2025-04-30,Rapido bike taxi ride,1104.42,Net Banking,Transport
+2025-05-01,Swiggy food order,795.27,Net Banking,Food
+2025-05-01,Udemy Python data science course,1253.82,Net Banking,Education
+2025-05-01,House cleaning deep sanitization,1236.93,Credit Card,Utilities
+2025-05-01,Bowling alley amusement park,225.84,Credit Card,Entertainment
+2025-05-02,Cafe Coffee Day latte,720.21,Credit Card,Food
+2025-05-02,Subway sandwich lunch,44878.36,Debit Card,Food
+2025-05-02,Organic kitchen milk curd,608.73,UPI,Food
+2025-05-03,MedPlus health wellness vitamins,2146.42,UPI,Healthcare
+2025-05-03,Hotstar cricket subscription,605.38,UPI,Entertainment
+2025-05-03,Uber city cab ride,1689.2,UPI,Transport
+2025-05-03,Swiggy food order,1239.63,Credit Card,Food
+2025-05-04,Physiotherapy rehabilitation session,655.61,UPI,Healthcare
+2025-05-04,Coursera ML specialization fee,2105.02,Credit Card,Education
+2025-05-05,Ajio ethnic wear kurti,2362.93,Credit Card,Shopping
+2025-05-06,Electricity bill Bescom,2243.43,Credit Card,Utilities
+2025-05-06,Bowling alley amusement park,1940.43,UPI,Entertainment
+2025-05-07,Ajio ethnic wear kurti,1028.44,Debit Card,Shopping
+2025-05-07,Concert music show pass,1059.8,UPI,Entertainment
+2025-05-07,Cafe Coffee Day latte,1100.7,Net Banking,Food
+2025-05-07,Barbeque Nation buffet,664.13,Debit Card,Food
+2025-05-07,Cafe Coffee Day latte,519.42,UPI,Food
+2025-05-07,Water supply municipal bill,4983.52,UPI,Utilities
+2025-05-07,Hotstar cricket subscription,527.51,Debit Card,Entertainment
+2025-05-08,Apartment maintenance society,2348.74,UPI,Utilities
+2025-05-09,Swiggy food order,1266.04,UPI,Food
+2025-05-09,Metro smart card recharge,724.63,Net Banking,Transport
+2025-05-09,Zomato dinner delivery,613.76,UPI,Food
+2025-05-09,Titan wrist watch,6086.95,Credit Card,Shopping
+2025-05-09,Apartment maintenance society,2376.6,UPI,Utilities
+2025-05-10,Garbage collection civic fee,1258.12,UPI,Utilities
+2025-05-10,Ola auto commute,1628.57,UPI,Transport
+2025-05-11,SanDisk external SSD drive,1672.3,Credit Card,Electronics
+2025-05-11,Kindle technical ebook,3057.41,Credit Card,Education
+2025-05-11,Westside formal shirt trousers,3068.2,UPI,Shopping
+2025-05-12,Westside formal shirt trousers,5835.52,Debit Card,Shopping
+2025-05-12,YouTube Premium family plan,2317.12,Net Banking,Entertainment
+2025-05-13,Multi-plug spike surge protector,908.02,Debit Card,Electronics
+2025-05-13,Haldiram sweet snacks,188.63,UPI,Food
+2025-05-13,Dental clinic scaling treatment,553.06,UPI,Healthcare
+2025-05-14,Solar geyser maintenance,3766.52,UPI,Utilities
+2025-05-15,KFC chicken bucket,1314.35,UPI,Food
+2025-05-16,Water supply municipal bill,1238.36,UPI,Utilities
+2025-05-16,Courier postal speed service,2041.36,Credit Card,Others
+2025-05-16,Airtel broadband wifi bill,2377.39,UPI,Utilities
+2025-05-17,DataCamp yearly learning subscription,1212.81,Debit Card,Education
+2025-05-17,Hotstar cricket subscription,1001.71,Debit Card,Entertainment
+2025-05-17,Metro smart card recharge,1038.66,Debit Card,Transport
+2025-05-18,Apple lightning charging cable,736.37,Net Banking,Electronics
+2025-05-18,1mg health diagnostic check,1920.51,UPI,Healthcare
+2025-05-19,Organic kitchen milk curd,1474.54,UPI,Food
+2025-05-20,Starbucks coffee & snack,153.21,UPI,Food
+2025-05-20,Bakery fresh bread cakes,1611.0,UPI,Food
+2025-05-20,Apple lightning charging cable,2816.65,Credit Card,Electronics
+2025-05-20,Zomato dinner delivery,1171.16,UPI,Food
+2025-05-20,DataCamp yearly learning subscription,1782.11,Debit Card,Education
+2025-05-20,Shoppers Stop retail shopping,2829.74,UPI,Shopping
+2025-05-21,Nike running shoes,6085.93,Credit Card,Shopping
+2025-05-22,Bakery fresh bread cakes,1346.57,Net Banking,Food
+2025-05-23,Starbucks coffee & snack,733.48,UPI,Food
+2025-05-23,Jio mobile postpaid bill,1207.5,Credit Card,Utilities
+2025-05-23,Nike running shoes,2377.55,Debit Card,Shopping
+2025-05-23,Titan wrist watch,3619.88,UPI,Shopping
+2025-05-24,PNG cooking gas cylinder,4357.12,UPI,Utilities
+2025-05-25,Standup comedy open mic ticket,1675.71,UPI,Entertainment
+2025-05-25,Swiggy food order,113.81,UPI,Food
+2025-05-26,Blinkit quick snacks,443.87,Debit Card,Food
+2025-05-27,Zara casual clothing,1632.9,Credit Card,Shopping
+2025-05-27,BookMyShow cinema tickets,1330.45,Net Banking,Entertainment
+2025-05-27,Skin specialist derma cream,2780.39,UPI,Healthcare
+2025-05-27,Bus transit daily pass,201.03,Credit Card,Transport
+2025-05-27,Ola auto commute,359.46,UPI,Transport
+2025-05-28,Dental clinic scaling treatment,1192.1,UPI,Healthcare
+2025-05-28,Fastag toll plaza payment,1522.99,UPI,Transport
+2025-05-28,Starbucks coffee & snack,1035.88,UPI,Food
+2025-05-28,Bus transit daily pass,1639.52,UPI,Transport
+2025-05-29,Shoppers Stop retail shopping,5728.49,Credit Card,Shopping
+2025-05-29,Notion AI productivity tool,4296.34,UPI,Education
+2025-05-30,Blinkit quick snacks,1132.19,UPI,Food
+2025-05-30,Subway sandwich lunch,1309.71,UPI,Food
+2025-05-31,PNG cooking gas cylinder,3409.04,Credit Card,Utilities
+2025-05-31,Gaming arcade zone card,1004.21,UPI,Entertainment
+2025-05-31,PNG cooking gas cylinder,3692.34,UPI,Utilities
+2025-06-01,Indian Railways train ticket,69.38,Credit Card,Transport
+2025-06-01,KFC chicken bucket,418.95,UPI,Food
+2025-06-01,Amazon fashion wardrobe,5111.45,Debit Card,Shopping
+2025-06-01,Dental clinic scaling treatment,620.66,Debit Card,Healthcare
+2025-06-01,Local fruit and vegetable vendor,981.59,UPI,Food
+2025-06-01,Ajio ethnic wear kurti,2520.79,Credit Card,Shopping
+2025-06-01,KFC chicken bucket,1351.82,Cash,Food
+2025-06-02,Titan wrist watch,928.63,Cash,Shopping
+2025-06-02,Birthday gift friend packaging,1755.46,Net Banking,Others
+2025-06-03,Rapido bike taxi ride,1442.42,UPI,Transport
+2025-06-03,Organic kitchen milk curd,351.09,Credit Card,Food
+2025-06-03,Blinkit quick snacks,458.27,UPI,Food
+2025-06-04,Museum and gallery entry,2375.59,UPI,Entertainment
+2025-06-04,McDonald's burger meal,1229.97,Credit Card,Food
+2025-06-04,Practo doctor consultation,1875.13,Credit Card,Healthcare
+2025-06-04,Udemy Python data science course,3120.0,Credit Card,Education
+2025-06-05,Barbeque Nation buffet,330.52,UPI,Food
+2025-06-05,Wildcraft backpack travel,2201.27,Credit Card,Shopping
+2025-06-06,Coursera ML specialization fee,1597.19,UPI,Education
+2025-06-06,Levis denim jeans,3798.17,Credit Card,Shopping
+2025-06-07,Fastag toll plaza payment,1528.66,Credit Card,Transport
+2025-06-07,Barbeque Nation buffet,879.36,UPI,Food
+2025-06-08,McDonald's burger meal,892.62,Debit Card,Food
+2025-06-09,KFC chicken bucket,1142.03,UPI,Food
+2025-06-09,Decathlon sports gear,5883.26,Credit Card,Shopping
+2025-06-10,McDonald's burger meal,193.4,UPI,Food
+2025-06-10,Swiggy food order,675.84,UPI,Food
+2025-06-10,Tata Play DTH recharge,72796.72,Credit Card,Utilities
+2025-06-11,BookMyShow cinema tickets,525.24,Debit Card,Entertainment
+2025-06-11,Blinkit quick snacks,194.78,UPI,Food
+2025-06-11,Barbeque Nation buffet,439.03,Net Banking,Food
+2025-06-12,BookMyShow cinema tickets,2317.6,UPI,Entertainment
+2025-06-12,Uber city cab ride,687.29,Credit Card,Transport
+2025-06-12,McDonald's burger meal,1641.72,UPI,Food
+2025-06-12,KFC chicken bucket,323.6,UPI,Food
+2025-06-14,Dry cleaning laundry service,2665.19,UPI,Others
+2025-06-14,Electricity bill Bescom,1717.94,UPI,Utilities
+2025-06-14,Westside formal shirt trousers,3915.8,UPI,Shopping
+2025-06-15,1mg health diagnostic check,468.66,UPI,Healthcare
+2025-06-15,Wildcraft backpack travel,1164.55,UPI,Shopping
+2025-06-15,Titan wrist watch,1285.37,UPI,Shopping
+2025-06-15,Barbeque Nation buffet,1622.2,Cash,Food
+2025-06-16,Electricity bill Bescom,2798.51,Cash,Utilities
+2025-06-16,Bus transit daily pass,627.36,UPI,Transport
+2025-06-16,Starbucks coffee & snack,1375.78,Debit Card,Food
+2025-06-17,Two-wheeler vehicle servicing,288.17,Debit Card,Transport
+2025-06-18,Electricity bill Bescom,1670.47,Net Banking,Utilities
+2025-06-18,1mg health diagnostic check,916.27,Debit Card,Healthcare
+2025-06-19,Levis denim jeans,2890.99,UPI,Shopping
+2025-06-19,Noise smartwatch fitness tracker,2771.54,Cash,Electronics
+2025-06-19,Local fruit and vegetable vendor,362.1,UPI,Food
+2025-06-19,Tata Play DTH recharge,2105.24,Net Banking,Utilities
+2025-06-20,Airport parking charges,941.91,UPI,Transport
+2025-06-20,Westside formal shirt trousers,1243.56,UPI,Shopping
+2025-06-21,Haldiram sweet snacks,1619.21,UPI,Food
+2025-06-21,Zara casual clothing,1234.02,Debit Card,Shopping
+2025-06-21,Titan wrist watch,5272.12,UPI,Shopping
+2025-06-23,Birthday gift friend packaging,358.17,Credit Card,Others
+2025-06-23,Dental clinic scaling treatment,3396.83,Debit Card,Healthcare
+2025-06-23,Rapido bike taxi ride,181.25,Credit Card,Transport
+2025-06-24,Zomato dinner delivery,1306.8,Cash,Food
+2025-06-24,Netflix monthly subscription,518.87,UPI,Entertainment
+2025-06-25,Flight ticket MakeMyTrip,383.45,Credit Card,Transport
+2025-06-25,Solar geyser maintenance,2832.86,Debit Card,Utilities
+2025-06-26,Wildcraft backpack travel,3244.96,UPI,Shopping
+2025-06-26,Metro smart card recharge,312.53,Cash,Transport
+2025-06-26,Titan wrist watch,4289.35,Cash,Shopping
+2025-06-26,Shoppers Stop retail shopping,6105.46,Debit Card,Shopping
+2025-06-26,Tata Play DTH recharge,2010.62,UPI,Utilities
+2025-06-27,Mi home smart security camera,3510.5,Credit Card,Electronics
+2025-06-27,Cafe Coffee Day latte,1195.15,Cash,Food
+2025-06-27,Domino's pizza party,991.56,Debit Card,Food
+2025-06-28,Westside formal shirt trousers,2888.43,Credit Card,Shopping
+2025-06-28,Coursera ML specialization fee,4086.33,UPI,Education
+2025-06-29,Zara casual clothing,1848.29,UPI,Shopping
+2025-06-29,Blinkit quick snacks,189.03,Credit Card,Food
+2025-06-30,Starbucks coffee & snack,511.5,Credit Card,Food
+2025-07-01,Physiotherapy rehabilitation session,517.76,UPI,Healthcare
+2025-07-01,Subway sandwich lunch,895.05,UPI,Food
+2025-07-02,McDonald's burger meal,441.63,Debit Card,Food
+2025-07-02,Bakery fresh bread cakes,220.49,UPI,Food
+2025-07-03,Amazon fashion wardrobe,2841.17,Cash,Shopping
+2025-07-03,Barbeque Nation buffet,1545.41,UPI,Food
+2025-07-03,Local fruit and vegetable vendor,862.34,Credit Card,Food
+2025-07-03,Udemy Python data science course,48962.0,UPI,Education
+2025-07-03,Starbucks coffee & snack,602.73,UPI,Food
+2025-07-03,Haldiram sweet snacks,215.97,Debit Card,Food
+2025-07-04,Two-wheeler vehicle servicing,1939.33,UPI,Transport
+2025-07-04,Decathlon sports gear,4302.12,UPI,Shopping
+2025-07-04,Rapido bike taxi ride,1424.5,UPI,Transport
+2025-07-04,Bus transit daily pass,340.8,UPI,Transport
+2025-07-05,Solar geyser maintenance,1613.72,Debit Card,Utilities
+2025-07-05,Grocery shopping bigbasket,1642.18,Credit Card,Food
+2025-07-06,Concert music show pass,2215.92,Debit Card,Entertainment
+2025-07-06,KFC chicken bucket,1310.36,Cash,Food
+2025-07-06,Amazon Prime video renew,783.86,UPI,Entertainment
+2025-07-06,Bakery fresh bread cakes,469.7,UPI,Food
+2025-07-07,Bowling alley amusement park,325.91,UPI,Entertainment
+2025-07-09,Organic kitchen milk curd,293.82,Credit Card,Food
+2025-07-09,Myntra festival shoes,1081.04,UPI,Shopping
+2025-07-09,Two-wheeler vehicle servicing,159.9,UPI,Transport
+2025-07-10,Westside formal shirt trousers,5206.6,UPI,Shopping
+2025-07-10,Hotstar cricket subscription,1364.59,UPI,Entertainment
+2025-07-10,Udemy Python data science course,3177.63,UPI,Education
+2025-07-10,Levis denim jeans,1951.8,Debit Card,Shopping
+2025-07-10,Bakery fresh bread cakes,1282.6,UPI,Food
+2025-07-10,Jio mobile postpaid bill,2533.08,Credit Card,Utilities
+2025-07-10,Dr Lal PathLabs blood test,357.73,Credit Card,Healthcare
+2025-07-10,Westside formal shirt trousers,3929.75,UPI,Shopping
+2025-07-10,House cleaning deep sanitization,3101.49,Net Banking,Utilities
+2025-07-10,Tanishq 22K gold jewelry shopping,46199.27,Debit Card,Shopping
+2025-07-10,Domino's pizza party,938.74,Credit Card,Food
+2025-07-11,Barbeque Nation buffet,1648.71,Cash,Food
+2025-07-11,Barbeque Nation buffet,1085.5,Cash,Food
+2025-07-12,Titan wrist watch,1134.76,Credit Card,Shopping
+2025-07-13,Car wash doorstep vacuum,1568.99,UPI,Others
+2025-07-14,H&M summer t-shirt,5313.83,Cash,Shopping
+2025-07-14,Cafe Coffee Day latte,1100.35,UPI,Food
+2025-07-14,Jio mobile postpaid bill,3981.52,UPI,Utilities
+2025-07-15,Two-wheeler vehicle servicing,291.99,UPI,Transport
+2025-07-15,Mi home smart security camera,4323.88,UPI,Electronics
+2025-07-15,Dental clinic scaling treatment,2847.79,Debit Card,Healthcare
+2025-07-15,Solar geyser maintenance,550.33,Net Banking,Utilities
+2025-07-15,Amazon wireless mouse keyboard,2003.96,UPI,Electronics
+2025-07-15,Practo doctor consultation,3190.77,Debit Card,Healthcare
+2025-07-15,Organic kitchen milk curd,286.01,Credit Card,Food
+2025-07-16,McDonald's burger meal,1029.11,Credit Card,Food
+2025-07-16,Physiotherapy rehabilitation session,1834.69,UPI,Healthcare
+2025-07-16,Ola auto commute,861.0,UPI,Transport
+2025-07-17,Apartment maintenance society,487.89,UPI,Utilities
+2025-07-17,DataCamp yearly learning subscription,2368.96,Cash,Education
+2025-07-18,Cafe Coffee Day latte,142.1,Credit Card,Food
+2025-07-18,Myntra festival shoes,1735.51,Credit Card,Shopping
+2025-07-19,Mi home smart security camera,4936.16,Net Banking,Electronics
+2025-07-19,Flight ticket MakeMyTrip,329.9,UPI,Transport
+2025-07-19,Fastag toll plaza payment,937.26,Net Banking,Transport
+2025-07-20,SanDisk external SSD drive,3275.47,UPI,Electronics
+2025-07-20,Multi-plug spike surge protector,4200.13,UPI,Electronics
+2025-07-20,Udemy Python data science course,554.59,UPI,Education
+2025-07-21,Westside formal shirt trousers,2071.52,Credit Card,Shopping
+2025-07-22,Nike running shoes,3820.16,Credit Card,Shopping
+2025-07-22,Westside formal shirt trousers,6140.72,UPI,Shopping
+2025-07-23,Museum and gallery entry,2321.54,UPI,Entertainment
+2025-07-23,Croma portable powerbank,3521.66,Net Banking,Electronics
+2025-07-23,MedPlus health wellness vitamins,1863.43,UPI,Healthcare
+2025-07-24,Local fruit and vegetable vendor,1129.04,Cash,Food
+2025-07-24,Eye clinic glasses frames,3087.66,Debit Card,Healthcare
+2025-07-25,BookMyShow cinema tickets,1169.47,UPI,Entertainment
+2025-07-25,McDonald's burger meal,1082.43,UPI,Food
+2025-07-25,Electricity bill Bescom,3722.96,UPI,Utilities
+2025-07-26,Ola auto commute,167.5,UPI,Transport
+2025-07-26,Apollo Pharmacy medicines,3196.95,Credit Card,Healthcare
+2025-07-27,Grocery shopping bigbasket,1495.95,Net Banking,Food
+2025-07-28,Organic kitchen milk curd,89.78,Credit Card,Food
+2025-07-28,KFC chicken bucket,417.34,UPI,Food
+2025-07-29,Bakery fresh bread cakes,1222.68,UPI,Food
+2025-07-29,Domino's pizza party,186.67,Credit Card,Food
+2025-07-29,DataCamp yearly learning subscription,1677.77,UPI,Education
+2025-07-29,Birthday gift friend packaging,1307.15,UPI,Others
+2025-07-29,Flight ticket MakeMyTrip,1333.43,UPI,Transport
+2025-07-30,Croma portable powerbank,4746.26,UPI,Electronics
+2025-07-30,McDonald's burger meal,1222.82,Debit Card,Food
+2025-07-31,College semester examination fee,4259.51,UPI,Education
+2025-08-01,Concert music show pass,1045.44,UPI,Entertainment
+2025-08-01,Solar geyser maintenance,1220.73,Debit Card,Utilities
+2025-08-02,Haldiram sweet snacks,1450.91,Cash,Food
+2025-08-02,Levis denim jeans,5999.82,Credit Card,Shopping
+2025-08-02,Bus transit daily pass,109.52,Net Banking,Transport
+2025-08-03,Electricity bill Bescom,4733.71,UPI,Utilities
+2025-08-03,Organic kitchen milk curd,148.19,UPI,Food
+2025-08-03,Boat bluetooth headphones,637.44,Credit Card,Electronics
+2025-08-03,Noise smartwatch fitness tracker,737.32,Credit Card,Electronics
+2025-08-03,YouTube Premium family plan,1652.29,UPI,Entertainment
+2025-08-05,Indian Railways train ticket,562.24,UPI,Transport
+2025-08-05,Barbeque Nation buffet,501.98,Credit Card,Food
+2025-08-06,Barbeque Nation buffet,437.91,Debit Card,Food
+2025-08-06,Water supply municipal bill,1240.96,Credit Card,Utilities
+2025-08-06,Wildcraft backpack travel,5084.72,UPI,Shopping
+2025-08-07,MedPlus health wellness vitamins,1872.66,Credit Card,Healthcare
+2025-08-07,Electricity bill Bescom,2535.27,Credit Card,Utilities
+2025-08-07,First aid essentials kit,1923.04,Net Banking,Healthcare
+2025-08-07,Dr Lal PathLabs blood test,2485.05,Credit Card,Healthcare
+2025-08-09,House cleaning deep sanitization,2333.67,Debit Card,Utilities
+2025-08-09,MedPlus health wellness vitamins,2628.34,Credit Card,Healthcare
+2025-08-09,Uber city cab ride,1655.74,Debit Card,Transport
+2025-08-11,Electricity bill Bescom,1943.48,UPI,Utilities
+2025-08-12,Swiggy food order,1521.6,Cash,Food
+2025-08-12,Netflix monthly subscription,599.12,UPI,Entertainment
+2025-08-12,YouTube Premium family plan,1904.28,UPI,Entertainment
+2025-08-12,Temple charity donation trust,1218.31,Credit Card,Others
+2025-08-13,Metro smart card recharge,666.19,Debit Card,Transport
+2025-08-14,Apple lightning charging cable,3343.96,UPI,Electronics
+2025-08-14,Decathlon sports gear,2938.05,Credit Card,Shopping
+2025-08-14,Shoppers Stop retail shopping,2418.37,Credit Card,Shopping
+2025-08-14,Zara casual clothing,4754.58,UPI,Shopping
+2025-08-15,Metro smart card recharge,952.81,UPI,Transport
+2025-08-15,Birthday gift friend packaging,2425.61,UPI,Others
+2025-08-17,Amazon fashion wardrobe,4015.17,Debit Card,Shopping
+2025-08-17,PlayStation store games,1480.87,UPI,Entertainment
+2025-08-17,Metro smart card recharge,1327.11,Debit Card,Transport
+2025-08-17,Bus transit daily pass,1346.48,UPI,Transport
+2025-08-17,Standup comedy open mic ticket,56149.94,UPI,Entertainment
+2025-08-18,Two-wheeler vehicle servicing,1160.13,UPI,Transport
+2025-08-18,Skin specialist derma cream,2287.17,Credit Card,Healthcare
+2025-08-18,MakeMyTrip international round-trip flights,73196.69,UPI,Transport
+2025-08-19,Haldiram sweet snacks,311.09,Credit Card,Food
+2025-08-19,Kindle technical ebook,687.36,Net Banking,Education
+2025-08-19,Tata Play DTH recharge,3552.1,Credit Card,Utilities
+2025-08-19,Multi-plug spike surge protector,3058.71,Net Banking,Electronics
+2025-08-19,Practo doctor consultation,1230.52,Credit Card,Healthcare
+2025-08-20,Research paper IEEE access,2394.01,UPI,Education
+2025-08-21,Airport parking charges,542.29,UPI,Transport
+2025-08-21,BookMyShow cinema tickets,1074.95,UPI,Entertainment
+2025-08-21,Apartment maintenance society,602.27,UPI,Utilities
+2025-08-21,Physiotherapy rehabilitation session,1165.89,Cash,Healthcare
+2025-08-22,1mg health diagnostic check,2068.85,UPI,Healthcare
+2025-08-23,Subway sandwich lunch,300.69,UPI,Food
+2025-08-23,Zara casual clothing,4843.14,Credit Card,Shopping
+2025-08-24,Temple charity donation trust,954.98,Net Banking,Others
+2025-08-24,Levis denim jeans,4131.59,UPI,Shopping
+2025-08-24,Apartment maintenance society,4411.13,Debit Card,Utilities
+2025-08-24,Two-wheeler vehicle servicing,314.74,UPI,Transport
+2025-08-25,Standup comedy open mic ticket,1509.0,UPI,Entertainment
+2025-08-25,Cafe Coffee Day latte,901.86,Debit Card,Food
+2025-08-25,Haldiram sweet snacks,175.44,Credit Card,Food
+2025-08-25,1mg health diagnostic check,171.42,UPI,Healthcare
+2025-08-26,Museum and gallery entry,1150.93,Debit Card,Entertainment
+2025-08-26,Indian Railways train ticket,642.64,UPI,Transport
+2025-08-26,Nike running shoes,1668.22,Cash,Shopping
+2025-08-27,Notion AI productivity tool,788.28,Credit Card,Education
+2025-08-27,Blinkit quick snacks,242.48,UPI,Food
+2025-08-28,Skin specialist derma cream,529.13,UPI,Healthcare
+2025-08-28,Organic kitchen milk curd,790.62,Debit Card,Food
+2025-08-29,Zara casual clothing,3228.3,Credit Card,Shopping
+2025-08-29,Nike running shoes,3099.23,Debit Card,Shopping
+2025-08-29,Bakery fresh bread cakes,290.0,Credit Card,Food
+2025-08-30,Dr Lal PathLabs blood test,3801.71,UPI,Healthcare
+2025-08-30,Flight ticket MakeMyTrip,860.58,Net Banking,Transport
+2025-08-31,Research paper IEEE access,3208.55,UPI,Education
+2025-08-31,Skin specialist derma cream,2922.06,UPI,Healthcare
+2025-09-01,Mi home smart security camera,2984.43,Credit Card,Electronics
+2025-09-01,Apollo Pharmacy medicines,2401.6,Credit Card,Healthcare
+2025-09-01,Decathlon sports gear,1694.25,UPI,Shopping
+2025-09-01,Fastag toll plaza payment,1368.55,Debit Card,Transport
+2025-09-02,PlayStation store games,618.83,UPI,Entertainment
+2025-09-02,Spotify premium annual,2273.71,Credit Card,Entertainment
+2025-09-03,McDonald's burger meal,208.36,Credit Card,Food
+2025-09-03,Shell petrol bunk diesel,977.07,UPI,Transport
+2025-09-03,Zomato dinner delivery,1149.12,UPI,Food
+2025-09-03,Practo doctor consultation,2278.15,UPI,Healthcare
+2025-09-04,Airtel broadband wifi bill,416.49,UPI,Utilities
+2025-09-05,Zara casual clothing,5045.35,Net Banking,Shopping
+2025-09-05,Bus transit daily pass,1393.48,Cash,Transport
+2025-09-05,Rapido bike taxi ride,1243.99,UPI,Transport
+2025-09-06,Ajio ethnic wear kurti,3840.59,Debit Card,Shopping
+2025-09-06,Rapido bike taxi ride,887.49,Debit Card,Transport
+2025-09-07,Barbeque Nation buffet,246.31,Cash,Food
+2025-09-07,Home plumbing faucet repair,1848.31,UPI,Others
+2025-09-07,KFC chicken bucket,616.7,UPI,Food
+2025-09-07,Dry cleaning laundry service,1015.64,Debit Card,Others
+2025-09-08,YouTube Premium family plan,362.27,Net Banking,Entertainment
+2025-09-08,MakeMyTrip international round-trip flights,39723.88,UPI,Transport
+2025-09-09,Levis denim jeans,4124.58,UPI,Shopping
+2025-09-09,Cafe Coffee Day latte,527.55,UPI,Food
+2025-09-10,Pet care dog food vaccine,1820.18,Net Banking,Others
+2025-09-10,Uber city cab ride,1505.54,UPI,Transport
+2025-09-11,Temple charity donation trust,2347.29,UPI,Others
+2025-09-12,Subway sandwich lunch,1188.07,UPI,Food
+2025-09-12,Ola auto commute,869.14,UPI,Transport
+2025-09-12,Zomato dinner delivery,1158.06,UPI,Food
+2025-09-12,Standup comedy open mic ticket,2419.99,Debit Card,Entertainment
+2025-09-12,Subway sandwich lunch,1270.46,Credit Card,Food
+2025-09-12,Mi home smart security camera,1468.26,UPI,Electronics
+2025-09-13,Monitor screen HDMI converter,4836.89,UPI,Electronics
+2025-09-13,Subway sandwich lunch,455.71,UPI,Food
+2025-09-14,Amazon fashion wardrobe,5564.91,Debit Card,Shopping
+2025-09-14,Westside formal shirt trousers,5533.27,Debit Card,Shopping
+2025-09-15,Uber city cab ride,1553.74,Credit Card,Transport
+2025-09-15,Shoppers Stop retail shopping,2557.99,UPI,Shopping
+2025-09-16,Airtel broadband wifi bill,909.78,UPI,Utilities
+2025-09-16,Gaming arcade zone card,1517.03,Debit Card,Entertainment
+2025-09-16,Blinkit quick snacks,1035.17,Credit Card,Food
+2025-09-17,Uber city cab ride,641.43,Credit Card,Transport
+2025-09-17,Indian Railways train ticket,1161.08,UPI,Transport
+2025-09-17,Kindle technical ebook,60740.67,UPI,Education
+2025-09-17,Grocery shopping bigbasket,1506.35,UPI,Food
+2025-09-18,Shoppers Stop retail shopping,1727.43,Debit Card,Shopping
+2025-09-18,Garbage collection civic fee,4221.04,Debit Card,Utilities
+2025-09-19,Physiotherapy rehabilitation session,502.7,Debit Card,Healthcare
+2025-09-20,Bus transit daily pass,892.16,Credit Card,Transport
+2025-09-20,Bakery fresh bread cakes,1052.35,UPI,Food
+2025-09-21,Udemy Python data science course,2403.03,UPI,Education
+2025-09-21,Domino's pizza party,562.53,UPI,Food
+2025-09-22,Swiggy food order,1590.98,Debit Card,Food
+2025-09-22,Apartment maintenance society,4143.17,UPI,Utilities
+2025-09-22,Research paper IEEE access,1608.42,Credit Card,Education
+2025-09-22,DataCamp yearly learning subscription,3138.67,Debit Card,Education
+2025-09-23,Courier postal speed service,2240.4,UPI,Others
+2025-09-24,1mg health diagnostic check,3839.24,UPI,Healthcare
+2025-09-24,Coursera ML specialization fee,3848.45,Debit Card,Education
+2025-09-24,Kindle technical ebook,517.25,UPI,Education
+2025-09-24,Metro smart card recharge,132.48,UPI,Transport
+2025-09-24,McDonald's burger meal,738.5,UPI,Food
+2025-09-25,Multi-plug spike surge protector,4230.93,UPI,Electronics
+2025-09-25,Skin specialist derma cream,864.39,Cash,Healthcare
+2025-09-26,KFC chicken bucket,595.08,UPI,Food
+2025-09-27,Dental clinic scaling treatment,2182.24,UPI,Healthcare
+2025-09-27,Amazon fashion wardrobe,5334.29,UPI,Shopping
+2025-09-27,Titan wrist watch,4101.63,Cash,Shopping
+2025-09-27,Uber city cab ride,1103.46,Credit Card,Transport
+2025-09-28,Shell petrol bunk diesel,1580.67,Net Banking,Transport
+2025-09-28,Swiggy food order,1264.33,Cash,Food
+2025-09-29,Haldiram sweet snacks,824.12,Credit Card,Food
+2025-09-29,Petrol bunk fuel refill,1948.05,UPI,Transport
+2025-09-29,Apple lightning charging cable,1985.12,Credit Card,Electronics
+2025-09-29,Dr Lal PathLabs blood test,2453.29,Credit Card,Healthcare
+2025-09-29,Starbucks coffee & snack,1426.65,Credit Card,Food
+2025-09-30,Amazon wireless mouse keyboard,2650.34,Debit Card,Electronics
+2025-09-30,Westside formal shirt trousers,2415.42,UPI,Shopping
+2025-10-01,Research paper IEEE access,1540.84,Credit Card,Education
+2025-10-01,Pet care dog food vaccine,2078.27,UPI,Others
+2025-10-01,Zomato dinner delivery,1600.86,UPI,Food
+2025-10-02,Car wash doorstep vacuum,1105.22,UPI,Others
+2025-10-02,Udemy Python data science course,3229.71,Debit Card,Education
+2025-10-02,Tata Play DTH recharge,2291.58,Credit Card,Utilities
+2025-10-02,Local fruit and vegetable vendor,109.74,Cash,Food
+2025-10-03,Solar geyser maintenance,3587.12,Debit Card,Utilities
+2025-10-03,MedPlus health wellness vitamins,236.18,UPI,Healthcare
+2025-10-04,Apartment maintenance society,1054.94,Cash,Utilities
+2025-10-04,Standup comedy open mic ticket,350.42,Debit Card,Entertainment
+2025-10-04,Decathlon sports gear,4494.91,UPI,Shopping
+2025-10-04,Uber city cab ride,1352.91,Debit Card,Transport
+2025-10-04,Indian Railways train ticket,1878.36,Credit Card,Transport
+2025-10-04,Cafe Coffee Day latte,1637.63,UPI,Food
+2025-10-05,Kindle technical ebook,1140.6,UPI,Education
+2025-10-05,Car wash doorstep vacuum,2011.67,UPI,Others
+2025-10-05,Dr Lal PathLabs blood test,2057.66,Cash,Healthcare
+2025-10-06,Levis denim jeans,2155.13,UPI,Shopping
+2025-10-06,Dr Lal PathLabs blood test,2789.21,Credit Card,Healthcare
+2025-10-07,Ola auto commute,1938.62,UPI,Transport
+2025-10-08,BookMyShow cinema tickets,609.83,Cash,Entertainment
+2025-10-08,Electricity bill Bescom,4026.98,Credit Card,Utilities
+2025-10-08,Hotstar cricket subscription,1991.67,UPI,Entertainment
+2025-10-08,Flight ticket MakeMyTrip,483.39,UPI,Transport
+2025-10-09,Electricity bill Bescom,2303.28,UPI,Utilities
+2025-10-09,Local fruit and vegetable vendor,688.2,UPI,Food
+2025-10-09,Coursera ML specialization fee,1994.3,Credit Card,Education
+2025-10-10,Concert music show pass,589.71,UPI,Entertainment
+2025-10-10,Amazon Prime video renew,788.62,UPI,Entertainment
+2025-10-10,Decathlon sports gear,5736.36,UPI,Shopping
+2025-10-10,Ola auto commute,954.96,Debit Card,Transport
+2025-10-11,Garbage collection civic fee,3656.09,UPI,Utilities
+2025-10-11,McDonald's burger meal,783.91,Net Banking,Food
+2025-10-11,Indian Railways train ticket,597.47,Credit Card,Transport
+2025-10-11,Hotstar cricket subscription,803.69,UPI,Entertainment
+2025-10-12,Ajio ethnic wear kurti,4270.3,UPI,Shopping
+2025-10-12,Stationery notebooks pens spiral,2803.81,UPI,Education
+2025-10-12,Amazon Prime video renew,1707.87,UPI,Entertainment
+2025-10-12,Barbeque Nation buffet,1435.44,UPI,Food
+2025-10-13,Multi-plug spike surge protector,1810.06,Cash,Electronics
+2025-10-13,Amazon Prime video renew,814.57,Debit Card,Entertainment
+2025-10-13,Standup comedy open mic ticket,632.64,Credit Card,Entertainment
+2025-10-15,Subway sandwich lunch,1090.87,UPI,Food
+2025-10-15,Apartment maintenance society,2987.65,Credit Card,Utilities
+2025-10-15,Rapido bike taxi ride,532.47,Credit Card,Transport
+2025-10-16,First aid essentials kit,1763.17,Credit Card,Healthcare
+2025-10-17,Decathlon sports gear,1538.62,Net Banking,Shopping
+2025-10-17,Eye clinic glasses frames,780.5,Credit Card,Healthcare
+2025-10-17,Nike running shoes,1952.04,Credit Card,Shopping
+2025-10-17,Netflix monthly subscription,855.0,UPI,Entertainment
+2025-10-17,Netflix monthly subscription,260.02,UPI,Entertainment
+2025-10-18,Bowling alley amusement park,980.89,UPI,Entertainment
+2025-10-18,Shoppers Stop retail shopping,769.94,Credit Card,Shopping
+2025-10-19,H&M summer t-shirt,3083.26,Credit Card,Shopping
+2025-10-19,Ola auto commute,426.33,Net Banking,Transport
+2025-10-19,PlayStation store games,768.0,UPI,Entertainment
+2025-10-19,Starbucks coffee & snack,1250.48,UPI,Food
+2025-10-20,Office team contribution gift,646.52,Cash,Others
+2025-10-20,Decathlon sports gear,1212.81,UPI,Shopping
+2025-10-20,Eye clinic glasses frames,1127.96,UPI,Healthcare
+2025-10-20,Nike running shoes,5677.57,UPI,Shopping
+2025-10-21,Metro smart card recharge,1115.39,Net Banking,Transport
+2025-10-21,Apple lightning charging cable,2207.69,UPI,Electronics
+2025-10-21,PlayStation store games,1688.85,UPI,Entertainment
+2025-10-21,Bakery fresh bread cakes,255.2,Credit Card,Food
+2025-10-21,Shoppers Stop retail shopping,3546.87,Net Banking,Shopping
+2025-10-21,Bakery fresh bread cakes,437.42,Credit Card,Food
+2025-10-21,PNG cooking gas cylinder,410.34,UPI,Utilities
+2025-10-22,Amazon fashion wardrobe,2725.8,UPI,Shopping
+2025-10-23,Fastag toll plaza payment,1889.44,Credit Card,Transport
+2025-10-23,PlayStation store games,1968.78,UPI,Entertainment
+2025-10-23,Flight ticket MakeMyTrip,771.35,Credit Card,Transport
+2025-10-23,Mi home smart security camera,474.93,Credit Card,Electronics
+2025-10-24,Petrol bunk fuel refill,635.36,Cash,Transport
+2025-10-25,Blinkit quick snacks,265.51,Net Banking,Food
+2025-10-25,H&M summer t-shirt,5440.34,Cash,Shopping
+2025-10-27,Levis denim jeans,4391.64,UPI,Shopping
+2025-10-27,McDonald's burger meal,336.11,UPI,Food
+2025-10-27,Grocery shopping bigbasket,1355.13,UPI,Food
+2025-10-28,Titan wrist watch,5835.75,Credit Card,Shopping
+2025-10-28,Ola auto commute,1603.7,UPI,Transport
+2025-10-28,Nike running shoes,3124.19,Net Banking,Shopping
+2025-10-29,Domino's pizza party,1356.79,Credit Card,Food
+2025-10-29,McDonald's burger meal,1118.01,UPI,Food
+2025-10-29,Haldiram sweet snacks,1257.93,Debit Card,Food
+2025-10-30,Westside formal shirt trousers,5762.98,UPI,Shopping
+2025-10-30,PNG cooking gas cylinder,556.97,UPI,Utilities
+2025-10-31,DataCamp yearly learning subscription,3136.63,Credit Card,Education
+2025-10-31,Local fruit and vegetable vendor,1477.39,Credit Card,Food
+2025-11-01,Barbeque Nation buffet,1168.77,Credit Card,Food
+2025-11-01,Apollo Pharmacy medicines,445.94,Cash,Healthcare
+2025-11-01,Nike running shoes,5827.71,Credit Card,Shopping
+2025-11-02,Wildcraft backpack travel,4418.17,Credit Card,Shopping
+2025-11-02,Ola auto commute,1466.56,UPI,Transport
+2025-11-02,Indian Railways train ticket,311.18,Credit Card,Transport
+2025-11-02,Two-wheeler vehicle servicing,259.82,Credit Card,Transport
+2025-11-02,Jio mobile postpaid bill,4889.18,UPI,Utilities
+2025-11-03,Physiotherapy rehabilitation session,1727.63,UPI,Healthcare
+2025-11-03,Zomato dinner delivery,965.93,Credit Card,Food
+2025-11-04,BookMyShow cinema tickets,878.25,Debit Card,Entertainment
+2025-11-05,Pet care dog food vaccine,136.85,UPI,Others
+2025-11-05,Water supply municipal bill,2159.13,UPI,Utilities
+2025-11-05,Shoppers Stop retail shopping,2268.18,Net Banking,Shopping
+2025-11-06,Tata Play DTH recharge,1048.38,UPI,Utilities
+2025-11-06,H&M summer t-shirt,5047.19,Debit Card,Shopping
+2025-11-06,Zomato dinner delivery,836.92,Credit Card,Food
+2025-11-07,Cafe Coffee Day latte,349.47,UPI,Food
+2025-11-07,Petrol bunk fuel refill,459.92,Credit Card,Transport
+2025-11-07,Shoppers Stop retail shopping,4738.54,UPI,Shopping
+2025-11-07,Bus transit daily pass,132.28,Debit Card,Transport
+2025-11-07,Stationery notebooks pens spiral,3405.93,Credit Card,Education
+2025-11-07,Blinkit quick snacks,843.05,Net Banking,Food
+2025-11-08,Levis denim jeans,2718.35,Debit Card,Shopping
+2025-11-08,Starbucks coffee & snack,96.91,Debit Card,Food
+2025-11-08,Mi home smart security camera,3768.57,Credit Card,Electronics
+2025-11-09,Stationery notebooks pens spiral,3057.08,UPI,Education
+2025-11-09,Haldiram sweet snacks,1216.92,Credit Card,Food
+2025-11-09,Bus transit daily pass,941.19,UPI,Transport
+2025-11-09,Grocery shopping bigbasket,689.48,Credit Card,Food
+2025-11-09,Swiggy food order,1516.97,UPI,Food
+2025-11-09,Dr Lal PathLabs blood test,1067.38,Debit Card,Healthcare
+2025-11-09,Multi-plug spike surge protector,1995.16,UPI,Electronics
+2025-11-10,Hotstar cricket subscription,2224.05,Net Banking,Entertainment
+2025-11-10,Amazon fashion wardrobe,2826.41,Net Banking,Shopping
+2025-11-10,Fastag toll plaza payment,1189.32,Debit Card,Transport
+2025-11-10,Apartment maintenance society,3638.55,Cash,Utilities
+2025-11-10,Dental clinic scaling treatment,2463.99,Net Banking,Healthcare
+2025-11-12,Barbeque Nation buffet,1080.0,Credit Card,Food
+2025-11-12,Ola auto commute,595.26,UPI,Transport
+2025-11-12,Dry cleaning laundry service,2539.67,Credit Card,Others
+2025-11-12,Gaming arcade zone card,1711.44,UPI,Entertainment
+2025-11-12,PNG cooking gas cylinder,3383.99,UPI,Utilities
+2025-11-13,Domino's pizza party,1510.27,UPI,Food
+2025-11-13,Cambridge English exam prep book,3579.77,Credit Card,Education
+2025-11-14,H&M summer t-shirt,3630.01,Debit Card,Shopping
+2025-11-15,McDonald's burger meal,1078.77,Credit Card,Food
+2025-11-16,Blinkit quick snacks,1624.42,UPI,Food
+2025-11-16,Ola auto commute,1268.5,UPI,Transport
+2025-11-16,Ola auto commute,1540.87,Credit Card,Transport
+2025-11-16,Electricity bill Bescom,3345.66,UPI,Utilities
+2025-11-17,Zara casual clothing,4375.59,UPI,Shopping
+2025-11-17,Tanishq 22K gold jewelry shopping,13583.13,Debit Card,Shopping
+2025-11-18,Eye clinic glasses frames,2508.07,UPI,Healthcare
+2025-11-19,Decathlon sports gear,1884.18,UPI,Shopping
+2025-11-20,Airtel broadband wifi bill,1873.55,UPI,Utilities
+2025-11-20,Shell petrol bunk diesel,579.59,Cash,Transport
+2025-11-20,KFC chicken bucket,1007.22,Debit Card,Food
+2025-11-20,Domino's pizza party,140.69,Credit Card,Food
+2025-11-20,Kindle technical ebook,4268.76,Credit Card,Education
+2025-11-20,Amazon wireless mouse keyboard,4891.6,UPI,Electronics
+2025-11-21,PlayStation store games,932.86,Debit Card,Entertainment
+2025-11-21,College semester examination fee,2032.97,Debit Card,Education
+2025-11-21,McDonald's burger meal,566.1,Credit Card,Food
+2025-11-23,Shoppers Stop retail shopping,890.77,UPI,Shopping
+2025-11-24,Wildcraft backpack travel,965.84,UPI,Shopping
+2025-11-24,Organic kitchen milk curd,1422.98,Debit Card,Food
+2025-11-25,Fastag toll plaza payment,584.67,UPI,Transport
+2025-11-25,KFC chicken bucket,1411.3,UPI,Food
+2025-11-27,Wildcraft backpack travel,2946.75,UPI,Shopping
+2025-11-27,Jio mobile postpaid bill,2738.2,UPI,Utilities
+2025-11-27,Petrol bunk fuel refill,1527.95,Net Banking,Transport
+2025-11-28,Bakery fresh bread cakes,1600.37,Debit Card,Food
+2025-11-28,Subway sandwich lunch,402.23,UPI,Food
+2025-11-28,Rapido bike taxi ride,1696.76,Credit Card,Transport
+2025-11-28,Nike running shoes,970.61,UPI,Shopping
+2025-11-28,Subway sandwich lunch,1687.28,UPI,Food
+2025-11-28,Two-wheeler vehicle servicing,1404.53,Credit Card,Transport
+2025-11-28,Bakery fresh bread cakes,753.44,Debit Card,Food
+2025-11-30,MedPlus health wellness vitamins,2356.66,Credit Card,Healthcare
+2025-11-30,Office team contribution gift,1271.17,UPI,Others
+2025-12-01,Haldiram sweet snacks,685.01,Credit Card,Food
+2025-12-01,Metro smart card recharge,1920.94,Credit Card,Transport
+2025-12-02,Two-wheeler vehicle servicing,1470.17,Credit Card,Transport
+2025-12-02,Decathlon sports gear,2012.98,Cash,Shopping
+2025-12-02,Titan wrist watch,5423.6,Credit Card,Shopping
+2025-12-03,Kindle technical ebook,865.08,Credit Card,Education
+2025-12-03,Rapido bike taxi ride,244.66,Credit Card,Transport
+2025-12-03,Airtel broadband wifi bill,3085.69,Debit Card,Utilities
+2025-12-03,Hotstar cricket subscription,1228.43,Credit Card,Entertainment
+2025-12-04,1mg health diagnostic check,1929.98,UPI,Healthcare
+2025-12-04,Titan wrist watch,5702.98,Credit Card,Shopping
+2025-12-04,Airport parking charges,1160.26,Net Banking,Transport
+2025-12-04,Airport parking charges,972.97,UPI,Transport
+2025-12-05,McDonald's burger meal,883.58,Debit Card,Food
+2025-12-05,Skin specialist derma cream,2774.24,Debit Card,Healthcare
+2025-12-05,Myntra festival shoes,856.75,UPI,Shopping
+2025-12-05,First aid essentials kit,1431.64,UPI,Healthcare
+2025-12-05,1mg health diagnostic check,527.68,UPI,Healthcare
+2025-12-06,H&M summer t-shirt,4726.46,UPI,Shopping
+2025-12-06,Bakery fresh bread cakes,149.35,Credit Card,Food
+2025-12-06,Starbucks coffee & snack,1129.53,Cash,Food
+2025-12-07,SanDisk external SSD drive,2518.53,UPI,Electronics
+2025-12-07,Haldiram sweet snacks,1224.37,UPI,Food
+2025-12-08,Grocery shopping bigbasket,337.83,UPI,Food
+2025-12-08,PlayStation store games,1589.92,UPI,Entertainment
+2025-12-08,House cleaning deep sanitization,4901.97,UPI,Utilities
+2025-12-09,Shell petrol bunk diesel,519.28,UPI,Transport
+2025-12-09,Swiggy food order,460.49,UPI,Food
+2025-12-11,Rapido bike taxi ride,214.47,UPI,Transport
+2025-12-11,Barbeque Nation buffet,900.48,Debit Card,Food
+2025-12-11,Swiggy food order,1612.97,Debit Card,Food
+2025-12-11,Fastag toll plaza payment,900.21,Cash,Transport
+2025-12-12,Local fruit and vegetable vendor,1061.3,UPI,Food
+2025-12-12,Fastag toll plaza payment,1671.99,Credit Card,Transport
+2025-12-13,Titan wrist watch,5074.38,Net Banking,Shopping
+2025-12-13,H&M summer t-shirt,1014.89,Debit Card,Shopping
+2025-12-13,Indian Railways train ticket,1208.56,Debit Card,Transport
+2025-12-13,Dr Lal PathLabs blood test,319.09,Debit Card,Healthcare
+2025-12-14,Bus transit daily pass,1071.07,UPI,Transport
+2025-12-14,PlayStation store games,1066.81,Cash,Entertainment
+2025-12-14,Tanishq 22K gold jewelry shopping,34184.55,Debit Card,Shopping
+2025-12-15,Swiggy food order,306.95,UPI,Food
+2025-12-15,Water supply municipal bill,4508.14,UPI,Utilities
+2025-12-15,Levis denim jeans,3809.92,UPI,Shopping
+2025-12-15,Ola auto commute,979.04,UPI,Transport
+2025-12-15,1mg health diagnostic check,917.86,Cash,Healthcare
+2025-12-16,Starbucks coffee & snack,1488.58,UPI,Food
+2025-12-16,Multi-plug spike surge protector,599.33,Credit Card,Electronics
+2025-12-17,YouTube Premium family plan,2310.14,UPI,Entertainment
+2025-12-17,Amazon fashion wardrobe,1760.71,UPI,Shopping
+2025-12-17,Levis denim jeans,1469.2,UPI,Shopping
+2025-12-17,Domino's pizza party,1383.83,UPI,Food
+2025-12-17,Indian Railways train ticket,166.19,Debit Card,Transport
+2025-12-18,Boat bluetooth headphones,4437.56,Credit Card,Electronics
+2025-12-18,Haldiram sweet snacks,309.69,Credit Card,Food
+2025-12-18,Amazon Prime video renew,1516.33,UPI,Entertainment
+2025-12-19,Wildcraft backpack travel,2811.92,Credit Card,Shopping
+2025-12-20,Local fruit and vegetable vendor,1170.05,UPI,Food
+2025-12-20,McDonald's burger meal,787.41,Net Banking,Food
+2025-12-21,Multi-plug spike surge protector,2609.5,Debit Card,Electronics
+2025-12-21,Solar geyser maintenance,2285.34,UPI,Utilities
+2025-12-21,Stationery notebooks pens spiral,1500.89,Net Banking,Education
+2025-12-21,Noise smartwatch fitness tracker,1179.51,Debit Card,Electronics
+2025-12-22,Shoppers Stop retail shopping,4213.93,Credit Card,Shopping
+2025-12-22,PlayStation store games,1469.19,Credit Card,Entertainment
+2025-12-23,Wildcraft backpack travel,3399.95,Credit Card,Shopping
+2025-12-23,Petrol bunk fuel refill,875.49,UPI,Transport
+2025-12-23,Bakery fresh bread cakes,575.49,Credit Card,Food
+2025-12-23,H&M summer t-shirt,4464.81,UPI,Shopping
+2025-12-23,Amazon wireless mouse keyboard,4022.61,Credit Card,Electronics
+2025-12-23,Starbucks coffee & snack,734.9,Credit Card,Food
+2025-12-24,Apple lightning charging cable,1870.47,Cash,Electronics
+2025-12-24,Mi home smart security camera,2117.2,Credit Card,Electronics
+2025-12-25,Dental clinic scaling treatment,323.6,UPI,Healthcare
+2025-12-25,Solar geyser maintenance,3478.36,Debit Card,Utilities
+2025-12-25,Physiotherapy rehabilitation session,1883.39,Debit Card,Healthcare
+2025-12-26,PlayStation store games,783.81,Net Banking,Entertainment
+2025-12-26,Apollo Pharmacy medicines,3135.17,Net Banking,Healthcare
+2025-12-26,Bus transit daily pass,112.65,Net Banking,Transport
+2025-12-27,Electricity bill Bescom,2340.22,UPI,Utilities
+2025-12-27,BookMyShow cinema tickets,2390.66,UPI,Entertainment
+2025-12-27,Boat bluetooth headphones,1283.94,UPI,Electronics
+2025-12-27,Swiggy food order,783.37,UPI,Food
+2025-12-27,First aid essentials kit,1416.46,UPI,Healthcare
+2025-12-27,Haldiram sweet snacks,478.53,UPI,Food
+2025-12-27,Westside formal shirt trousers,5107.8,Debit Card,Shopping
+2025-12-27,Petrol bunk fuel refill,1206.72,Cash,Transport
+2025-12-27,Grocery shopping bigbasket,1238.2,Credit Card,Food
+2025-12-28,Grocery shopping bigbasket,772.86,Credit Card,Food
+2025-12-28,Titan wrist watch,4720.32,Net Banking,Shopping
+2025-12-28,Blinkit quick snacks,1092.27,Debit Card,Food
+2025-12-29,Local fruit and vegetable vendor,398.53,Credit Card,Food
+2025-12-29,Shoppers Stop retail shopping,5062.0,UPI,Shopping
+2025-12-29,Local fruit and vegetable vendor,1448.57,UPI,Food
+2025-12-29,Flight ticket MakeMyTrip,377.93,UPI,Transport
+2025-12-30,Amazon fashion wardrobe,4533.33,Debit Card,Shopping
+2025-12-30,PNG cooking gas cylinder,3451.11,UPI,Utilities
+2025-12-30,Croma portable powerbank,1233.26,Credit Card,Electronics
+2025-12-31,Garbage collection civic fee,3476.23,Debit Card,Utilities
+2025-12-31,Museum and gallery entry,1364.66,Credit Card,Entertainment
+2025-12-31,Haldiram sweet snacks,869.37,Cash,Food
+2025-12-31,Courier postal speed service,250.98,UPI,Others
